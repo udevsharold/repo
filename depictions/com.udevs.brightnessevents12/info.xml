@@ -1,0 +1,46 @@
+<package>
+	<id>com.udevs.brightnessevents12</id>
+	<name>BrightnessEvents12</name>
+	<version>1.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Flip some control center modules when you're on certain brightness!</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            NOTE: This update built RWP and Dim into the setting page. A12 user will need to use the Dim package on my repo as original version (v1.5.2) is not updated for arm64e.<br/><br/>
+		Ever thought the lowest brightness on iOS is not enough when you're in darkest room, and not bright enough when you're under the sun since you enabled reduce white point?<br/>
+        Now you could automate this by flipping the relevant control center modules! Example case usage:<br/>
+        Turn on Dim when in dark room (cinema is my biggest annoyance)<br/>
+        Turn off after you exit the room<br/>
+        Turn on Reduce White Point when you're in normal lightning condition<br/>
+        Turn off when you're under direct sunlight
+        <br/><br/>
+        Support iOS 11-12.<br/><br/>
+        Note that if you're using FlipConvert, the module might or might not work. This is the problem on the converted switches itself, not this tweak.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>Main.PNG</image>
+            <image>Module.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+        <change>Built-in Dim module.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

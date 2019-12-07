@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.darkswitch</id>
+	<name>DarkSwitch</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Toggle Dark Mode in iOS 13 based on screen brightness.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            Toggle Dark Mode in iOS 13 based on screen brightness.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fix dependencies.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.touchrfs</id>
+	<name>TouchrFS</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Flipswith for Touchr.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		Flipswitch for Touchr. Compatible with iOS 10 (and most probably below). This package included two flip switches. One to disabled/enable Touchr, and another to turn on screen when rest finger on TouchID.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Update depiction</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

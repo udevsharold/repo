@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.activatorhomebuttoncrashfix</id>
+	<name>ActivatorHomeButtonCrashFix</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Fix activator causing safe mode crash on iOS 13 when pressing home button.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            Fix activator causing safe mode crash on iOS 13 when pressing home button.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

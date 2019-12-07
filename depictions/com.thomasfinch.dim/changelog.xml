@@ -1,0 +1,6 @@
+<changelog>
+    <changes>
+        <version>1.5.3</version>
+        <change>arm64e support</change>
+    </changes>
+</changelog>

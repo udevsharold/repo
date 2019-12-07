@@ -1,0 +1,22 @@
+<changelog>
+    <changes>
+        <version>1.0.6</version>
+        <change>Built-in Dim module.</change>
+    </changes>
+    <changes>
+        <version>1.0.5</version>
+        <change>Built-in Reduce White Point module, thanks to u/opa334.</change>
+    </changes>
+    <changes>
+        <version>1.0.4</version>
+        <change>Built-in Reduce White Point module, thanks to u/opa334.</change>
+    </changes>
+    <changes>
+        <version>1.0.3</version>
+        <change>Added dependency.</change>
+    </changes>
+    <changes>
+        <version>1.0.2</version>
+        <change>New release for iOS 11-12.</change>
+    </changes>
+</changelog>

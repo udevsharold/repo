@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.spotifyfastswitch</id>
+	<name>SpotifyFastSwitch</name>
+	<version>1.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Switch playing devices quickly by holding the bottom playback controller in Spotify!</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		By holding on the bottom playback controller bar, Spotify will switch to local device or last played remote device. Holding the AirPlay icon on the lock screen media controls will achieve the same result too, but this feature is only available on iOS 12. This tweak is tested fully working on Spotify v8.4.96 and v8.5.31. Untested version might or might not work.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+        <change>Added Spotify 8.5.31 support.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

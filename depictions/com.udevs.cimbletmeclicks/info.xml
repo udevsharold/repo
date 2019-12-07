@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.cimbletmeclicks</id>
+	<name>CIMBLetMeClicks</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Jailbreak detection bypass for CIMB Clicks</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		Jailbreak detection bypass for CIMB Clicks.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Update depiction</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

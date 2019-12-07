@@ -1,0 +1,38 @@
+<package>
+	<id>com.udevs.spotifyaccountsswitcher</id>
+	<name>SpotifyAccountsSwitcher</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Support any iOS version that Spotify could handle I guess?</shortDescription>
+	<descriptionlist>
+        <description>Quickly switch between two spotify accounts without logging in and out!</description>
+		<description><![CDATA[
+		To switch account, simply go to account setting in Spotify and tap LOG OUT.<br/>
+		This package was tested on iOS 11.3.1, 10.3.3 and 8.4.1 with Spotify 8.4.52 installed.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+            <screenshot>
+                <description>Tap logout!</description>
+                <image>ss1.jpg</image>
+            </screenshot>
+	</screenshots>
+	<changelog>
+		<change>Bug fixes.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

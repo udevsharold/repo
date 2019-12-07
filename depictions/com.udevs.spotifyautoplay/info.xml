@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.spotifyautoplay</id>
+	<name>SpotifyAutoPlay</name>
+	<version>1.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Autoplay Spotify when you opened from external URL!</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		By default, when you open Spotify URL externally, only track URL will be auto played. This tweak allows you to achieve similar behaviour for playlist/album/radio/artist URL. This tweak is tested fully working on Spotify v8.4.96 and v8.5.31. Untested version might or might not work.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+        <change>Updated for Spotify 8.5.31</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

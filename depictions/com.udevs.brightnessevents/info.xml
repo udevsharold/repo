@@ -1,0 +1,37 @@
+<package>
+	<id>com.udevs.brightnessevents</id>
+	<name>BrightnessEvents</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Only support iOS 10 at the moment. Don't try to install this in iOS 11.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		Do some actions when reached certain brightness levels!<br/>
+		This package was tested on iOS 10.3.3.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Settings</description>
+			<image>ss1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Update depiction and out of debug version.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

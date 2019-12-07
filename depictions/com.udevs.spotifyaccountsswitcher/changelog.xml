@@ -1,0 +1,14 @@
+<changelog>
+    <changes>
+        <version>0.0.1-69+debug</version>
+        <change>Bug fixes.</change>
+    </changes>
+    <changes>
+        <version>0.0.1-57+debug</version>
+        <change>Code cleanup.</change>
+    </changes>
+	<changes>
+		<version>0.0.1-54+debug</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
