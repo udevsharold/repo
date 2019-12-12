@@ -1,0 +1,14 @@
+<changelog>
+    <changes>
+        <version>1.4.2</version>
+        <change>Added long press to activate dictation.</change>
+    </changes>
+    <changes>
+        <version>1.4.1</version>
+        <change>Added A12 and iOS 11 support.</change>
+    </changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
