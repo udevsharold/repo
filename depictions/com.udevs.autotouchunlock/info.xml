@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.darkswitch</id>
+	<name>AutoTouchUnlock</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Auto unlock into homescreen after authentication on TouchID devices. Support iOS 13.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            Auto unlock into homescreen after authentication on TouchID devices. Support iOS 13.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
