@@ -1,5 +1,5 @@
 <package>
-	<id>com.udevs.darkswitch</id>
+	<id>com.udevs.autotouchunlock</id>
 	<name>AutoTouchUnlock</name>
 	<version>1.0.0</version>
 	<compatibility>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Auto unlock into homescreen after authentication on TouchID devices. Support iOS 13.</shortDescription>
+	<shortDescription>Auto unlock into homescreen after authentication on TouchID devices. If there's notifications/media controls etc. (see tweak settings page) on your lockscreen after authenticated, simply rest your finger on TouchID to go to homescreen. Support iOS 13.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            Auto unlock into homescreen after authentication on TouchID devices. Support iOS 13.
+            Auto unlock into homescreen after authentication on TouchID devices. If there's notifications/media controls etc. (see tweak settings page) on your lockscreen after authenticated, simply rest your finger on TouchID to go to homescreen. Support iOS 13.
 		]]>
 		</description>
 	</descriptionlist>
