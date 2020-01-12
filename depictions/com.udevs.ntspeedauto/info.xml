@@ -1,0 +1,36 @@
+<package>
+	<id>com.udevs.ntspeedauto</id>
+	<name>NTSpeedAuto</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Hide NtSpeed (by julioverne) window when in fullscreen mode (watching movie etc) and during taking screenshot. No option to configure. Only support iOS 13.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            Hide NtSpeed (by julioverne) window when in fullscreen mode (watching movie etc) and during taking screenshot. No option to configure. Only support iOS 13.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
