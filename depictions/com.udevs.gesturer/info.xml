@@ -1,0 +1,37 @@
+<package>
+	<id>com.udevs.gesturer</id>
+	<name>Gesturer</name>
+	<version>1.1~beta1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>rocketbootstrap</package>
+	</dependencies>
+	<shortDescription>Gestures on iOS 13. It'll execute any command you set in settings.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            Gestures on iOS 13. It'll execute any command you set in settings. This is a successor package to the previous StatusBarGesture tweak. Please note that this is a beta package.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
