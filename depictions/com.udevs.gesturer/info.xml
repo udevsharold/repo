@@ -14,11 +14,11 @@
 	<shortDescription>Gestures on iOS 13. It'll execute any command you set in settings.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            Gestures on iOS 13. It'll execute any command you set in settings. This is a successor package to the previous StatusBarGesture tweak. Please note that this is a beta package.\n
+            Gestures on iOS 13. It'll execute any command you set in settings. This is a successor package to the previous StatusBarGesture tweak. Please note that this is a beta package.<br/><br/>
             
-            Available gestures on:\n
-            - Status Bar\n
-            - LockScreen Clock\n
+            Available gestures on:<br/>
+            - Status Bar<br/>
+            - LockScreen Clock<br/>
 		]]>
 		</description>
 	</descriptionlist>
