@@ -13,7 +13,7 @@
 	<shortDescription>Autoplay Spotify when you opened from external URL!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		By default, when you open Spotify URL externally, only track URL will be auto played. This tweak allows you to achieve similar behaviour for playlist/album/radio/artist URL. This tweak is tested fully working on Spotify v8.4.96 and v8.5.31. Untested version might or might not work.
+		By default, when you open Spotify URL externally, only track URL will be auto played. This tweak allows you to achieve similar behaviour for playlist/album/radio/artist/chart URL. This tweak is tested fully working on Spotify v8.4.96 and v8.5.31. Untested version might or might not work.
 		]]>
 		</description>
 	</descriptionlist>
