@@ -9,7 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-        <package>rocketbootstrap</package>
 	</dependencies>
 	<shortDescription>Gestures on iOS 13. It'll execute any command you set in settings.</shortDescription>
 	<descriptionlist>
