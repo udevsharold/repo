@@ -1,0 +1,37 @@
+<package>
+	<id>com.udevs.statusbargesture</id>
+	<name>StatusBarGesture</name>
+	<version>1.0~beta3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>rocketbootstrap</package>
+	</dependencies>
+	<shortDescription>Gestures on status bar on iOS 13 (since Activator is not working properly ¯\_(ツ)_/¯). It'll execute any command you input into the field.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            Gestures on status bar on iOS 13 (since Activator is not working properly ¯\_(ツ)_/¯). It'll execute any command you input into the field.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
