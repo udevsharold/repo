@@ -14,19 +14,20 @@
 	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            Supporting notched devices (X,XS,XR,11) running iOS 12-13.
-            Available shortcuts:
-                Select All
-                Copy
-                Paste (limited paste feature on iOS 12 for images)
-                Cut
-                Undo
-                Redo
-            and long press on
-                Select All to select last word
-                Cut to delete last word
-                Undo to go to beginning of document
-                Redo to go to beginning of document
+            Add pasteboard shortcuts to your keyboard dock!<br/>
+            Supporting notched devices (X,XS,XR,11) running iOS 12-13.<br/>
+            Available shortcuts:<br/>
+            -Select All<br/>
+            -Copy<br/>
+            -Paste (limited paste feature on iOS 12 for images)<br/>
+            -Cut<br/>
+            -Undo<br/>
+            -Redo<br/>
+            and long press on<br/>
+            -Select All to select last word<br/>
+            -Cut to delete last word<br/>
+            -Undo to go to beginning of document<br/>
+            -Redo to go to beginning of document<br/>
             Go to setting page to reorder your shortcuts.
 		]]>
 		</description>
