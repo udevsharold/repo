@@ -1,20 +1,33 @@
 <package>
-	<id>com.udevs.statusbargesture</id>
-	<name>StatusBarGesture</name>
-	<version>1.0~beta3</version>
+	<id>com.udevs.dockx</id>
+	<name>DockX</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
         <package>rocketbootstrap</package>
 	</dependencies>
-	<shortDescription>Gestures on status bar on iOS 13 (since Activator is not working properly ¯\_(ツ)_/¯). It'll execute any command you input into the field.</shortDescription>
+	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            Gestures on status bar on iOS 13 (since Activator is not working properly ¯\_(ツ)_/¯). It'll execute any command you input into the field.
+            Supporting notched devices (X,XS,XR,11) running iOS 12-13.
+            Available shortcuts:
+                Select All
+                Copy
+                Paste (limited paste feature on iOS 12 for images)
+                Cut
+                Undo
+                Redo
+            and long press on
+                Select All to select last word
+                Cut to delete last word
+                Undo to go to beginning of document
+                Redo to go to beginning of document
+            Go to setting page to reorder your shortcuts.
 		]]>
 		</description>
 	</descriptionlist>
