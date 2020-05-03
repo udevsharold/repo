@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -9,13 +9,12 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-        <package>rocketbootstrap</package>
 	</dependencies>
 	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
             Add pasteboard shortcuts to your keyboard dock!<br/>
-            Supporting notched devices (X,XS,XR,11) running iOS 12-13.<br/><br/>
+            Supporting notched devices (X,XS,XR,11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak.<br/><br/>
             Available shortcuts:<br/>
             -Select All<br/>
             -Copy<br/>
@@ -39,7 +38,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Added one-handed keyboard support</change>
+        <change>Fixed overlapping view in dictation</change>
 	</changelog>
 	<links>
 		<link>
