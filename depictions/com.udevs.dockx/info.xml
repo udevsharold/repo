@@ -43,12 +43,12 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-            NEW FEATURES:<br/>
+            <b>NEW FEATURES:</b><br/>
             -Now you can add/remove shortcuts!<br/>
             -Added 7 new shortcuts<br/>
             -Shortcuts will animate whenever a successful operation<br/>
              performed<br/><br/>
-            FIXES:<br/>
+            <b>FIXES:</b><br/>
             -Fixed one-handed keyboard bug<br/>
             -Resolved flickering issue<br/>
             -Code imporevements
