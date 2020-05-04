@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.0.1</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -21,13 +21,21 @@
             -Paste (limited paste feature on iOS 12 for images)<br/>
             -Cut<br/>
             -Undo<br/>
-            -Redo<br/><br/>
-            and long press on<br/>
-            -Select All to select last word<br/>
-            -Cut to delete last word<br/>
-            -Undo to go to beginning of document<br/>
-            -Redo to go to beginning of document<br/><br/>
-            Go to setting page to reorder your shortcuts.
+            -Redo<br/>
+            -Beginning of Document<br/>
+            -Ending of Document<br/>
+            -Capitalize<br/>
+            -Lowercase<br/>
+            -Uppercase<br/>
+            -Delete<br/><br/>
+            and many more long press gesture on the shortcuts<br/>
+            Go to setting page to manage your shortcuts.<br/>
+            <link>
+                <name>To support developement:</name>
+                <url>https://www.paypal.me/udevs</url>
+            </link>
+             
+            
 		]]>
 		</description>
 	</descriptionlist>
