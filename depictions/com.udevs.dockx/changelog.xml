@@ -1,5 +1,22 @@
 <changelog>
     <changes>
+        <version>1.1</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Now you can add/remove shortcuts!<br/>
+            -Added 7 new shortcuts<br/>
+            -Shortcuts will animate whenever a successful operation<br/>
+             performed<br/><br/>
+            <b>FIXES:</b><br/>
+            -Fixed one-handed keyboard bug<br/>
+            -Resolved flickering issue<br/>
+            -Removed Barmoji as conflict package for user who<br/>
+             intends to use it on predictive bar<br/>
+            -Code improvements
+            ]]>
+        </change>
+    </changes>
+    <changes>
         <version>1.0.1</version>
         <change>Added one-handed keyboard support</change>
         <change>Fixed overlapping view in dictation</change>
