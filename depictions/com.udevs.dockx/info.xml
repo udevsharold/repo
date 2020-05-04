@@ -30,7 +30,8 @@
             -Delete<br/><br/>
             and many more long press gesture on the shortcuts<br/>
             Go to setting page to manage your shortcuts.<br/>
-            <link xml:link="link" href="https://www.paypal.me/udevs">To support developement:</link>
+            To support developement: https://www.paypal.me/udevs
+
 		]]>
 		</description>
 	</descriptionlist>
@@ -41,8 +42,18 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added one-handed keyboard support</change>
-        <change>Fixed overlapping view in dictation</change>
+		<change><![CDATA[
+            NEW FEATURES:<br/>
+            -Now you can add/remove shortcuts!<br/>
+            -Added 7 new shortcuts<br/>
+            -Shortcuts will animate whenever a successful operation<br/>
+             performed<br/><br/>
+            FIXES:<br/>
+            -Fixed one-handed keyboard bug<br/>
+            -Resolved flickering issue<br/>
+            -Code imporevements
+            ]]>
+        </change>
 	</changelog>
 	<links>
 		<link>
