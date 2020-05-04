@@ -30,12 +30,7 @@
             -Delete<br/><br/>
             and many more long press gesture on the shortcuts<br/>
             Go to setting page to manage your shortcuts.<br/>
-            <link>
-                <name>To support developement:</name>
-                <url>https://www.paypal.me/udevs</url>
-            </link>
-             
-            
+            <link xml:link="link" href="https://www.paypal.me/udevs">To support developement:</link>
 		]]>
 		</description>
 	</descriptionlist>
