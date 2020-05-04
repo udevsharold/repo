@@ -51,8 +51,7 @@
             <b>FIXES:</b><br/>
             -Fixed one-handed keyboard bug<br/>
             -Resolved flickering issue<br/>
-            -Removed Barmoji as conflict package for user who<br/>
-             intends to use it on predictive bar<br/>
+            -Removed Barmoji as conflict package for user who intends to use it on predictive bar<br/>
             -Code improvements
             ]]>
         </change>
