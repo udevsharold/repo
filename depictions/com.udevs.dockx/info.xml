@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -51,7 +51,9 @@
             -Fixed one-handed keyboard bug<br/>
             -Resolved flickering issue<br/>
             -Removed Barmoji as conflict package for user who intends to use it on predictive bar<br/>
-            -Code improvements
+            -Code improvements<br/>
+            -Fixed potential crash<br/>
+            -Fixed animation when changing to and fro one-handed keyboard
             ]]>
         </change>
 	</changelog>

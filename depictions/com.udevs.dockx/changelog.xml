@@ -12,7 +12,9 @@
             -Resolved flickering issue<br/>
             -Removed Barmoji as conflict package for user who<br/>
              intends to use it on predictive bar<br/>
-            -Code improvements
+            -Code improvements<br/>
+            -Fixed potential crash<br/>
+            -Fixed animation when changing to and fro one-handed keyboard
             ]]>
         </change>
     </changes>
