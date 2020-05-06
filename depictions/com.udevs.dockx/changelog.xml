@@ -1,5 +1,16 @@
 <changelog>
     <changes>
+        <version>1.2.0</version>
+        <change><![CDATA[
+            <change><![CDATA[
+                <b>NEW FEATURES:</b><br/>
+                -Show toast window!<br/><br/>
+                <b>FIXES:</b><br/>
+                -Fixed one-handed keyboard bug<br/>
+            ]]>
+        </change>
+    </changes>
+    <changes>
         <version>1.1.1</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>

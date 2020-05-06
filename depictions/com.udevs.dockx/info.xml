@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.1.2</version>
+	<version>1.2.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -44,16 +44,9 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Now you can add/remove shortcuts!<br/>
-            -Added 7 new shortcuts<br/>
-            -Shortcuts will animate whenever a successful operation performed<br/><br/>
+            -Show toast window!<br/><br/>
             <b>FIXES:</b><br/>
             -Fixed one-handed keyboard bug<br/>
-            -Resolved flickering issue<br/>
-            -Removed Barmoji as conflict package for user who intends to use it on predictive bar<br/>
-            -Code improvements<br/>
-            -Fixed potential crash<br/>
-            -Fixed animation when changing to and fro one-handed keyboard
             ]]>
         </change>
 	</changelog>
