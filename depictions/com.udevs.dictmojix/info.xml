@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dictmojix</id>
 	<name>DictMojiX</name>
-	<version>1.4.4</version>
+	<version>1.4.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -24,7 +24,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Updated icon</change>
+		<change>Better tweak initialization</change>
 	</changelog>
 	<links>
 		<link>
