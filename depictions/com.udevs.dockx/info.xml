@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.2.1</version>
+	<version>1.2.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -44,9 +44,10 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Nothing new<br/><br/>
+            -Added long press gesture on Paste shortcut: select all and paste<br/><br/>
             <b>FIXES:</b><br/>
             -Fixed long press gesture not working on some iOS and 13.5<br/>
+            -Fixed potential crash when trying to select text right after dictation<br/>
             ]]>
         </change>
 	</changelog>
