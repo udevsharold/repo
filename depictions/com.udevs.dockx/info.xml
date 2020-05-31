@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.3.0</version>
+	<version>1.3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -15,7 +15,7 @@
 	<descriptionlist>
 		<description><![CDATA[
             <b>Add pasteboard shortcuts to your keyboard dock!</b><br/><br/>
-            Supporting notched devices (X,XS,XR,11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak.<br/><br/>
+            Supporting notched devices (X, XS, XR, 11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak.<br/><br/>
             Available shortcuts:<br/>
             -Select All<br/>
             -Copy<br/>
