@@ -45,10 +45,10 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change><![CDATA[
+        <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             -3 new shortcuts: Bold, Italic & Underline<br/><br/>
-            <b>FIXES:</b><br/>
+            <b>FIXES:</b><br/>
             -Fixed delayed copy/paste/cut/select operation<br/>
             -iOS 12 should now be able to paste images<br/>
             ]]>
