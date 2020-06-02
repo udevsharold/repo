@@ -1,5 +1,16 @@
 <changelog>
     <changes>
+        <version>1.3.5</version>
+        <change><![CDATA[
+            <b>NOTICE: This update requires Alderis package from Chariz</b><br/><br/>
+            <b>NEW FEATURES:</b><br/>
+            -You asked for it: colour customization<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed crash on long press delete shortcut<br/>
+            -Improved delete logic: if text is selected, fallback to normal delete operation<br/>
+            ]]>
+        </change>
+    <changes>
         <version>1.3.3</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
