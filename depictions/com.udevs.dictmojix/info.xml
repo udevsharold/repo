@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dictmojix</id>
 	<name>DictMojiX</name>
-	<version>1.4.6</version>
+	<version>1.4.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -13,7 +13,7 @@
 	<shortDescription>Replace dictation key with emoji key on iPhone X/XR/XS! Support iOS 11-13.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		Replace dictation key with emoji key on iPhone X//XR/XS! Support iOS 11-13. Long press to activate dictation.
+		Replace dictation key with emoji key on iPhone X//XR/XS! Support iOS 11-13. Long press to activate dictation/Memoji.
 		]]>
 		</description>
 	</descriptionlist>
@@ -24,7 +24,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added option to remove dedicated emoji key on keyboard</change>
+		<change>Added option to toggle Memoji when input is Emoji</change>
 	</changelog>
 	<links>
 		<link>

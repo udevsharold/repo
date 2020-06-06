@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.4.8</version>
+        <change>Added option to toggle Memoji when input is Emoji</change>
+    </changes>
+    <changes>
         <version>1.4.6</version>
         <change>Added option to remove dedicated emoji key on keyboard</change>
     </changes>
