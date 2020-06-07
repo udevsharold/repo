@@ -1,0 +1,39 @@
+<package>
+	<id>com.udevs.noglobe</id>
+	<name>NoGlobe</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Lightweight tweak to disable globe key on X-series iPhone. No option to configure.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		Lightweight tweak to disable globe key on X-series iPhone. No option to configure.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+            -Initial Release
+            ]]>
+        </change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
