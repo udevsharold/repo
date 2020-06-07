@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>1.4.9</version>
+        <change><![CDATA[
+            -Fixed respring loop introduced in 1.4.8, thanks to u/stardatearmageddon's relentless testing<br/>
+            -Added option to disable long press activate dictation<br/>
+            -Added option to toggle Memoji when input is Emoji
+            ]]>
+        </change>
+    </changes>
+    <changes>
         <version>1.4.8</version>
         <change>Added option to toggle Memoji when input is Emoji</change>
     </changes>
