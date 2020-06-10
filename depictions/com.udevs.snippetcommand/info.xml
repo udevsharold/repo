@@ -1,0 +1,43 @@
+<package>
+	<id>com.udevs.dockx</id>
+	<name>DockX</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>rocketbootstrap</package>
+        <package>alderis</package>
+	</dependencies>
+	<shortDescription>Snippet extension for Activator</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>This is a command running plugin for Activator<br/>
+            Support absolute path and emoji as icon for the created snippet<br/>
+            To support development: https://www.paypal.me/udevs
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+        <change><![CDATA[
+            Initial Release
+            ]]>
+        </change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
