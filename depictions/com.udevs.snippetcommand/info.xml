@@ -1,6 +1,6 @@
 <package>
-	<id>com.udevs.dockx</id>
-	<name>DockX</name>
+	<id>com.udevs.snippetcommad</id>
+	<name>SnippetCommand</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -9,14 +9,12 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-        <package>rocketbootstrap</package>
-        <package>alderis</package>
 	</dependencies>
 	<shortDescription>Snippet extension for Activator</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            <b>This is a command running plugin for Activator<br/>
-            Support absolute path and emoji as icon for the created snippet<br/>
+            This is a command plugin for Activator<br/><br/>
+            Support absolute path and emoji as icon for the created snippet<br/><br/>
             To support development: https://www.paypal.me/udevs
 		]]>
 		</description>
