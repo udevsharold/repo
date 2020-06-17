@@ -1,5 +1,13 @@
 <changelog>
     <changes>
+        <version>1.3.7</version>
+        <change><![CDATA[
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed crash for operation on masked text field<br/>
+            ]]>
+        </change>
+    </changes>
+    <changes>
         <version>1.3.6</version>
         <change><![CDATA[
             <b>NOTICE: This update requires Alderis package from Chariz</b><br/><br/>
