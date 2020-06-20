@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dictmojix</id>
 	<name>DictMojiX</name>
-	<version>1.4.9</version>
+	<version>1.4.10</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -25,9 +25,7 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-            -Fixed respring loop introduced in 1.4.8, thanks to u/stardatearmageddon's relentless testing<br/>
-            -Added option to disable long press activate dictation<br/>
-            -Added option to toggle Memoji when input is Emoji
+            -Fixed globe key cycling through emoji keyboard when dedicated emoji key disabled for bilingual keyboard
             ]]>
         </change>
 	</changelog>

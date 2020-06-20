@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.4.10</version>
+        <change><![CDATA[
+            -Fixed globe key cycling through emoji keyboard when dedicated emoji key disabled for bilingual keyboard
+            ]]>
+        </change>
+    </changes>
+    <changes>
         <version>1.4.9</version>
         <change><![CDATA[
             -Fixed respring loop introduced in 1.4.8, thanks to u/stardatearmageddon's relentless testing<br/>
