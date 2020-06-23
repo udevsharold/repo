@@ -1,10 +1,10 @@
 <package>
-	<id>com.udevs.dockx</id>
-	<name>DockX</name>
-	<version>1.3.7</version>
+	<id>com.udevs.xpad</id>
+	<name>XPad</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.0</miniOS>
+			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -12,11 +12,11 @@
         <package>rocketbootstrap</package>
         <package>alderis</package>
 	</dependencies>
-	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
+	<shortDescription>Pasteboard shortcuts for iPad!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            <b>Add pasteboard shortcuts to your keyboard dock!</b><br/><br/>
-            Supporting notched devices (X, XS, XR, 11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak. If your own an iPad, check out XPad.<br/><br/>
+            <b>Add customizable pasteboard shortcuts to your iPad keyboard! If your own an iPhone, check out DockX.</b><br/><br/>
+            Supporting iPadOS (13.0+).<br/><br/>
             Available shortcuts:<br/>
             -Select All<br/>
             -Copy<br/>
@@ -49,8 +49,7 @@
 	</screenshots>
 	<changelog>
         <change><![CDATA[
-            <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Fixed crash for operation on masked text field<br/>
+            First Release
             ]]>
         </change>
 	</changelog>
