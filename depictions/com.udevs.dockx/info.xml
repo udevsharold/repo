@@ -8,9 +8,12 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
-        <package>rocketbootstrap</package>
-        <package>alderis</package>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			rocketbootstrap<br/>
+			alderis<br/>
+			]]>
+		</package>
 	</dependencies>
 	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
 	<descriptionlist>

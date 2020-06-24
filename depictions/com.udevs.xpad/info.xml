@@ -1,23 +1,26 @@
 <package>
 	<id>com.udevs.xpad</id>
 	<name>XPad</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
-        <package>rocketbootstrap</package>
-        <package>alderis</package>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			rocketbootstrap<br/>
+			alderis<br/>
+			]]>
+		</package>
 	</dependencies>
 	<shortDescription>Pasteboard shortcuts for iPad!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
             <i>This package depends Alderis package from Chariz: https://chariz.com/</i><br/><br/>
             <b>Add customizable pasteboard shortcuts to your iPad keyboard! If your own an iPhone, check out DockX.</b><br/><br/>
-            Supporting iPadOS (13.0+).<br/><br/>
+            Supporting iPadOS (13.0+). Compatible with CopyLog.<br/><br/>
             Available shortcuts:<br/>
             -Select All<br/>
             -Copy<br/>
@@ -50,7 +53,7 @@
 	</screenshots>
 	<changelog>
         <change><![CDATA[
-            Minor fixes
+            Added CopyLog compatibility
             ]]>
         </change>
 	</changelog>
