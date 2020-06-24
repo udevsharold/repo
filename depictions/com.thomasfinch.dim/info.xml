@@ -1,7 +1,7 @@
 <package>
 	<id>com.thomasfinch.dim</id>
 	<name>Dim</name>
-	<version>1.5.4</version>
+	<version>1.5.4.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
