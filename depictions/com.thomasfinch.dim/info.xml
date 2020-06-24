@@ -1,7 +1,7 @@
 <package>
 	<id>com.thomasfinch.dim</id>
 	<name>Dim</name>
-	<version>1.5.3</version>
+	<version>1.5.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -13,7 +13,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            NOTE: This is a forked version of thomasfinch's Dim that support iOS 11-12. Source code can be found here: https://github.com/udevsharold/Dim<br/><br/>
+            <i>NOTE: This is a forked version of thomasfinch's Dim that support iOS 11-12. Source code can be found here: https://github.com/udevsharold/Dim</i><br/><br/>
             
 		Dim is a jailbreak tweak that lets you dim your iPhone or iPad screen below the minimum brightness by adding a black screen overlay with variable opacity. When enabled (through a Flipswitch toggle, Activator action, or the tweak's settings), the overlay opacity can be changed by using Activator actions or the tweak's settings.
 		]]>
@@ -26,7 +26,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-        <change>arm64e support</change>
+        <change>use ARC</change>
 	</changelog>
 	<links>
 		<link>

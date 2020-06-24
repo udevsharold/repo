@@ -1,5 +1,8 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Minor fixes</change>
+	</changes><changes>
 		<version>1.0</version>
 		<change>First Release</change>
 	</changes>
