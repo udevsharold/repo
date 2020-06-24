@@ -15,6 +15,7 @@
 	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
+			<i>This package depends Alderis package from Chariz: https://chariz.com/</i><br/><br/>
             <b>Add pasteboard shortcuts to your keyboard dock!</b><br/><br/>
             Supporting notched devices (X, XS, XR, 11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak. If your own an iPad, check out XPad.<br/><br/>
             Available shortcuts:<br/>

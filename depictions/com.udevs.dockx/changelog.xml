@@ -29,6 +29,7 @@
             -Fixed delete shortcut caused crash<br/>
             ]]>
         </change>
+    </changes>
     <changes>
         <version>1.3.1</version>
         <change><![CDATA[
