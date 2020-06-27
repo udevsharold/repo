@@ -1,5 +1,18 @@
 <changelog>
     <changes>
+        <version>1.4.0</version>
+        <change><![CDATA[
+        	<b>NEW FEATURES:</b><br/>
+        	-Now you can add unlimited shortcuts to your dock!<br/>
+        	-Swipe Space Bar left/right to scroll!<br/>
+        	-Added ability to configure number of shortcuts per page<br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Adjusted toast dimension for lowercase and Capitalize shortcuts<br/>
+            -Repositioned respring button<br/>
+            -Better respring method<br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>1.3.7</version>
         <change><![CDATA[
             <b>FIXES & IMPROVEMENTS:</b><br/>

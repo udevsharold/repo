@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>1.0.5</version>
+		<change><![CDATA[
+            -Improved reading of preferences<br/>
+            -Better respring
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.3</version>
 		<change><![CDATA[
             -Added CopyLog compatibility<br/>
