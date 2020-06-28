@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.4.0</version>
+	<version>1.4.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -61,6 +61,7 @@
             -Adjusted toast dimension for lowercase and Capitalize shortcuts<br/>
             -Repositioned respring button<br/>
             -Better respring method<br/>
+            -Fixed minor scroll back issue<br/>
             ]]>
         </change>
 	</changelog>

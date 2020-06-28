@@ -1,6 +1,6 @@
 <changelog>
     <changes>
-        <version>1.4.0</version>
+        <version>1.4.1</version>
         <change><![CDATA[
         	<b>NEW FEATURES:</b><br/>
         	-Now you can add unlimited shortcuts to your dock!<br/>
@@ -10,6 +10,7 @@
             -Adjusted toast dimension for lowercase and Capitalize shortcuts<br/>
             -Repositioned respring button<br/>
             -Better respring method<br/>
+            -Fixed minor scroll back issue<br/>
             ]]>
         </change>
     </changes><changes>
