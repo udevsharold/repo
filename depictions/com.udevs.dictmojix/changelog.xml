@@ -1,9 +1,10 @@
 <changelog>
     <changes>
-        <version>1.4.12</version>
+        <version>1.4.13</version>
         <change><![CDATA[
             -Better respring<br/>
-            -Fixed minor tweak initialization logic
+            -Fixed minor tweak initialization logic<br/>
+            -Fixed memoji activation issue
             ]]>
         </change>
     </changes><changes>
