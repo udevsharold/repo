@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.4.2</version>
+	<version>1.5.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -53,10 +53,18 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Now compatible with barmoji!<br/>
+            -Swipe up, hold and finally release your finger to toggle between DockX and Barmoji. Just like how you enter app switcher.<br/>
+            -Added option to pick dock mode (enabling/disabling global & dictation)<br/>
+            -DockX will automatically conform with the selected dock mode<br/>
+            -Added reset to default for shortcuts<br/>
+            -Added option to display toast as text<br/>
+            -Go to setting to configure these new options.<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-            -Fixed space bar scrolling triggers random haptic feedback
+            -Increased max shortcuts to 8
             ]]>
-        </change>
+		</change>
 	</changelog>
 	<links>
 		<link>
