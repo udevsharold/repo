@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dictmojix</id>
 	<name>DictMojiX</name>
-	<version>1.4.13</version>
+	<version>1.4.14</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -25,9 +25,7 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-            -Better respring<br/>
-            -Fixed minor tweak initialization logic<br/>
-            -Fixed memoji activation issue
+            -Automatically switch to frequently used when activating/deactivating Memoji
             ]]>
         </change>
 	</changelog>
