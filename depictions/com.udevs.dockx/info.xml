@@ -55,7 +55,7 @@
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             -Now compatible with barmoji!<br/>
-            -Swipe up, hold and finally release your finger to toggle between DockX and Barmoji. Just like how you enter app switcher.<br/>
+            -Swipe up from space bar, hold and finally release your finger to toggle between DockX and Barmoji. Just like how you enter app switcher.<br/>
             -Added option to pick dock mode (enabling/disabling global & dictation)<br/>
             -DockX will automatically conform with the selected dock mode<br/>
             -Added reset to default for shortcuts<br/>
