@@ -37,6 +37,8 @@
             -Bold<br/>
             -Italic<br/>
             -Underline<br/>
+            -Cursor Left<br/>
+            -Cursor Right<br/>
             -Dismiss Keyboard<br/>
             and many more long press gesture on the shortcuts<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
@@ -56,20 +58,10 @@
             <b>NEW FEATURES:</b><br/>
             -Added options to use globe/dictation button as toggle switch for DockX/Barmoji<br/>
             -Added two new shortcuts: move cursor forward/backward<br/>
-            -Added option to disable swipe up from space bar toggle DockX/Barmoji<br/>
-            <br/>
-            -Now compatible with barmoji!<br/>
-            -Swipe up from space bar, hold and finally release your finger to toggle between DockX and Barmoji. Just like how you enter app switcher.<br/>
-            -Added option to pick dock mode (enabling/disabling global & dictation)<br/>
-            -DockX will automatically conform with the selected dock mode<br/>
-            -Added reset to default for shortcuts<br/>
-            -Added option to display toast as text<br/>
-            -Go to setting to configure these new options.<br/><br/>
+            -Added option to disable swipe up from space bar toggle DockX/Barmoji<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
 			-Code optimization<br/>
 			-Respring is now optional for changes to take effect<br/>
-			<br/>
-            -Increased max shortcuts to 8
             ]]>
 		</change>
 	</changelog>
