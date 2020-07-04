@@ -1,0 +1,44 @@
+<package>
+	<id>ccom.udevs.autocorrectionccmodule</id>
+	<name>AutoCorrectionCCModule</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			ccsupport<br/>
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+			Control center module for auto-correction.<br/>
+			Support iOS 11-13+.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+            First release
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
