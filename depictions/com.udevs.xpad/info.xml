@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.xpad</id>
 	<name>XPad</name>
-	<version>1.0.6</version>
+	<version>1.0.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -38,6 +38,8 @@
             -Italic<br/>
             -Underline<br/>
             -Dismiss Keyboard<br/>
+            -Cursor Left<br/>
+            -Cursor Right<br/>
             and many more long press gesture on the shortcuts<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
             To support development: https://www.paypal.me/udevs
@@ -52,12 +54,11 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-        <change><![CDATA[
-            -Improved reading of preferences<br/>
-            -Better respring<br/>
-            -Fixed crash on long pressing CopyLog button
+		<change><![CDATA[
+            -Fixed crash in Microsoft apps<br/>
+            -Two new shortcuts: move cursor left/right<br/>
             ]]>
-        </change>
+		</change>
 	</changelog>
 	<links>
 		<link>
