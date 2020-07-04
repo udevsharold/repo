@@ -49,9 +49,12 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description></description>
-			<image>Collapsed</image>
-			<image>Expanded</image>
+			<description>Collapsed Shortcuts</description>
+			<image>Collapsed.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Expanded Shortcuts</description>
+			<image>Expanded.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
