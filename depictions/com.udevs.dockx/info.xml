@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.5.1</version>
+	<version>1.5.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -56,12 +56,13 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added options to use globe/dictation button as toggle switch for DockX/Barmoji<br/>
-            -Added two new shortcuts: move cursor forward/backward<br/>
-            -Added option to disable swipe up from space bar toggle DockX/Barmoji<br/><br/>
+            -Added new shortcut: Auto-Correction<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Code optimization<br/>
-			-Respring is now optional for changes to take effect<br/>
+			-Fixed long pressing Cursor shortcuts sometimes ended up in non-stop cursor moving<br/>
+			-Fixed globe/dictation button being unintentionally replaced with circle image when long press is enabled<br/>
+			-Fixed language menu not showing up for globe/dictation in their default setting<br/>
+			-Fixed trackpad mode toggled DockX/Barmoji<br/>
+			-Shortened lengthy toast text
             ]]>
 		</change>
 	</changelog>

@@ -1,5 +1,18 @@
 <changelog>
     <changes>
+        <version>1.5.2</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added new shortcut: Auto-Correction<br/><br/>
+			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Fixed long pressing Cursor shortcuts sometimes ended up in non-stop cursor moving<br/>
+			-Fixed globe/dictation button being unintentionally replaced with circle image when long press is enabled<br/>
+			-Fixed language menu not showing up for globe/dictation in their default setting<br/>
+			-Fixed trackpad mode toggled DockX/Barmoji<br/>
+			-Shortened lengthy toast text
+            ]]>
+        </change>
+    </changes><changes>
         <version>1.5.1</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
