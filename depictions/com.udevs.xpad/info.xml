@@ -37,13 +37,12 @@
             -Bold<br/>
             -Italic<br/>
             -Underline<br/>
-            -Dismiss Keyboard<br/>
             -Cursor Left<br/>
             -Cursor Right<br/>
+            -Dismiss Keyboard<br/>
             and many more long press gesture on the shortcuts<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
             To support development: https://www.paypal.me/udevs
-
 		]]>
 		</description>
 	</descriptionlist>
@@ -64,6 +63,7 @@
             -Added ability to customize colour individually<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
 			-Significant amount of codes rewritten for better performance<br/>
+			-And many more minor bug fixes
             ]]>
 		</change>
 	</changelog>
