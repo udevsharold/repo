@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>1.4.16</version>
+        <change><![CDATA[
+            -Fixed typo in Settings
+            ]]>
+        </change>
+    </changes><changes>
         <version>1.4.15</version>
         <change><![CDATA[
             -Automatically switch to frequently used when activating/deactivating Memoji
