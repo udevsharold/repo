@@ -56,7 +56,7 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added ability to customize long press actions. Got to settings and tap the shorcuts to assign.<br/>
+            -Added ability to customize long press actions. Got to settings and tap the shortcuts to assign.<br/>
             -Added ability to customize colour individually<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
 			-Significant amount of codes rewritten for better performance<br/>
