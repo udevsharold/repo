@@ -56,7 +56,7 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            <br/><br/>
+            -Nil<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
 			-Fixed shortcuts sometimes revert to default config in some instances<br/>
 			-Fixed crash when adjusting number of shortcuts per page in Preferences<br/>
