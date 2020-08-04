@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.6.2</version>
+	<version>1.6.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -56,14 +56,10 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added ability to customize long press actions. Got to settings and tap the shortcuts to assign.<br/>
-            -Added ability to customize colour individually<br/><br/>
+            <br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Fixed unable to draw horizontal strokes in Chinese handwriting keyboard<br/>
-			-Improved toast position logic so that user won't think it's not working when set to 1.0 or 0.0<br/>
-			-Fixed crash for some devices<br/>
-			-Significant amount of codes rewritten for better performance<br/>
-			-And many more minor bug fixes
+			-Fixed shortcuts sometimes revert to default config in some instances<br/>
+			-Fixed crash when adjusting number of shortcuts per page in Preferences<br/>
             ]]>
 		</change>
 	</changelog>
