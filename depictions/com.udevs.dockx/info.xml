@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.6.3</version>
+	<version>1.6.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -56,10 +56,10 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -None<br/><br/>
+            -Not available<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Fixed shortcuts sometimes revert to default config in some instances<br/>
-			-Fixed crash when adjusting number of shortcuts per page in Preferences<br/>
+			-Fixed potential crash for some devices<br/>
+			-Fixed sandboxing issue
             ]]>
 		</change>
 	</changelog>
