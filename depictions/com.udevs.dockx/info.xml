@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.6.4</version>
+	<version>1.6.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -56,9 +56,10 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Not available<br/><br/>
+            -Added Keyboard Input Type shortcut: Cycle through multiples keyboard input type (num pad, phone pad, email etc.)<br/>
+            -Added Auto-Capitalization shortcut<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Fixed sandboxing issue
+			-Fixed delay in Spotlight search after fresh respring
             ]]>
 		</change>
 	</changelog>
