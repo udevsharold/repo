@@ -1,14 +1,15 @@
 <changelog>
     <changes>
-        <version>1.6.8</version>
+        <version>1.6.9</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             -Added Keyboard Input Type shortcut: Cycle through multiples keyboard input type (num pad, phone pad, email etc.)<br/>
             -Added Auto-Capitalization shortcut<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Fixed crash in Messages.app & some apps
-			-Resized icon toast dimension for new shortcuts
-			-Fixed delay in Spotlight search after fresh respring
+			-Improved original keyboard detection when switching<br/>
+			-Fixed crash in Messages.app & some apps<br/>
+			-Resized icon toast dimension for new shortcuts<br/>
+			-Fixed delay in Spotlight search after fresh respring<br/>
             ]]>
         </change>
     </changes><changes>
