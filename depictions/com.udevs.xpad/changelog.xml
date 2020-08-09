@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.2.5</version>
+		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added Keyboard Input Type shortcut: Cycle through multiples keyboard input type (num pad, phone pad, email etc.)<br/>
+            -Added Auto-Capitalization shortcut<br/><br/>
+			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Fixed delay in Spotlight search after fresh respring<br/>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.2.2</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
