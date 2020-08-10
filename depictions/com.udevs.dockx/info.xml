@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.7.0</version>
+	<version>1.7.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -39,10 +39,14 @@
             -Underline<br/>
             -Cursor Left<br/>
             -Cursor Right<br/>
+            -Cursor Up<br/>
+            -Cursor Down<br/>
             -Dismiss Keyboard<br/>
             -Auto-Correction<br/>
             -Auto-Capitalization<br/>
             -Keyboard Input Type (NumPad, PhonePad etc)<br/>
+            -Define Word<br/>
+            -Shell Command<br/>
             and many more long press gesture on the shortcuts<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
             To support development: https://www.paypal.me/udevs
@@ -59,14 +63,12 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added Keyboard Input Type shortcut: Cycle through multiples keyboard input type (num pad, phone pad, email etc.)<br/>
-            -Added Auto-Capitalization shortcut<br/><br/>
+            -Added Cursor Up & Cursor Down shortcuts<br/>
+            -Added Define Word shortcut<br/>
+            -Added Shell Command shortcut<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Now actively changing Keyboard Input Type shortcut's availability in real-time<br/>
-			-Improved original keyboard detection when switching<br/>
-			-Fixed crash in Messages.app & some apps<br/>
-			-Resized icon toast dimension for new shortcuts<br/>
-			-Fixed delay in Spotlight search after fresh respring<br/>
+			-Fixed moving cursor dismissed keyboard in Safari's Web View<br/>
+			-Fixed UPPERCASE, lowercase and Capitalize shortcuts not working when text selected manually<br/>
             ]]>
 		</change>
 	</changelog>
