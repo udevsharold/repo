@@ -1,6 +1,6 @@
 <changelog>
     <changes>
-        <version>1.7.2</version>
+        <version>1.7.3</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             -Added Cursor Up & Cursor Down shortcuts<br/>
