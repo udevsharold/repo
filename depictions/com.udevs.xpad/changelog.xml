@@ -1,12 +1,13 @@
 <changelog>
 	<changes>
-		<version>1.2.7</version>
+		<version>1.2.7.1</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             -Added Cursor Up & Cursor Down shortcuts<br/>
             -Added Define Word shortcut<br/>
             -Added Shell Command shortcut<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Fixed Define Word not working properly in Safari's Web View<br/>
 			-Fixed moving cursor dismissed keyboard in Safari's Web View<br/>
 			-Fixed UPPERCASE, lowercase and Capitalize shortcuts not working when text selected manually<br/>
             ]]>
