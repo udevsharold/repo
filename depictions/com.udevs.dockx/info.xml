@@ -18,7 +18,7 @@
 	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-			<i>This package depends Alderis package from Chariz: https://chariz.com/</i><br/><br/>
+            <i>This package depends Alderis package from Chariz: <a href="https://chariz.com/">https://chariz.com/</a></i><br/><br/>
             <b>Add pasteboard shortcuts to your keyboard dock!</b><br/><br/>
             Supporting notched devices (X, XS, XR, 11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak. Compatible with Barmoji. If you own an iPad, check out XPad.<br/><br/>
             Available shortcuts:<br/>
@@ -49,8 +49,7 @@
             -Shell Command<br/>
             and many more long press gesture on the shortcuts<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
-            To support development: https://www.paypal.me/udevs
-
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
 		]]>
 		</description>
 	</descriptionlist>
