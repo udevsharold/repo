@@ -1,5 +1,16 @@
 <changelog>
     <changes>
+        <version>1.7.4</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added Insert Text shortcut: Insert your predefined text or current date & time<br/>
+            -Added ability to "Paste and Go" in Safari for Paste shortcut<br/><br/>
+			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Shell Command shortcut can now be customized for custom long press gesture action<br/>
+			-Fixed typo in Preferences<br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>1.7.3.1</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>

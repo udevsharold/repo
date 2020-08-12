@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.xpad</id>
 	<name>XPad</name>
-	<version>1.2.8</version>
+	<version>1.2.9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -47,6 +47,7 @@
             -Keyboard Input Type (NumPad, PhonePad etc)<br/>
             -Define Word<br/>
             -Shell Command<br/>
+            -Insert Text<br/>
             and many more long press gesture on the shortcuts<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
@@ -66,14 +67,11 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Now long press gesture is available for shortcuts in collapsed menu<br/>
-            -Added Cursor Up & Cursor Down shortcuts<br/>
-            -Added Define Word shortcut<br/>
-            -Added Shell Command shortcut<br/><br/>
+            -Added Insert Text shortcut: Insert your predefined text or current date & time<br/>
+            -Added ability to "Paste and Go" in Safari for Paste shortcut<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Fixed Define Word not working properly in Safari's Web View<br/>
-			-Fixed moving cursor dismissed keyboard in Safari's Web View<br/>
-			-Fixed UPPERCASE, lowercase and Capitalize shortcuts not working when text selected manually<br/>
+			-Shell Command shortcut can now be customized for custom long press gesture action<br/>
+			-Fixed typo in Preferences<br/>
             ]]>
 		</change>
 	</changelog>
