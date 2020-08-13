@@ -1,5 +1,14 @@
 <changelog>
 	<changes>
+		<version>1.3.0</version>
+		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Not available<br/><br/>
+			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Fixed potential crash in Preferences when scrolling to the very bottom and up<br/>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.2.9</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>

@@ -1,0 +1,44 @@
+<package>
+	<id>com.udevs.storagebyname</id>
+	<name>StorageByName</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Sort apps storage in Preferences by name, size and date</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Sort apps storage in Preferences by name, size and date</b><br/>
+            Compatible with iOS 10+<br/><br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+            First Release
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

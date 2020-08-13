@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dockx</id>
 	<name>DockX</name>
-	<version>1.7.4</version>
+	<version>1.7.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -63,11 +63,11 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added Insert Text shortcut: Insert your predefined text or current date & time<br/>
-            -Added ability to "Paste and Go" in Safari for Paste shortcut<br/><br/>
+            -Not available<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Shell Command shortcut can now be customized for custom long press gesture action<br/>
-			-Fixed typo in Preferences<br/>
+			-Fixed crash in Preferences when scrolling to the very bottom and up<br/>
+			-Fixed crash when changing number of shotcuts per page in Preferences<br/>
+			-Respring is not needed anymore for every changes made<br/>
             ]]>
 		</change>
 	</changelog>

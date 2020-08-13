@@ -1,5 +1,16 @@
 <changelog>
     <changes>
+        <version>1.7.5</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Not available<br/><br/>
+			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Fixed crash in Preferences when scrolling to the very bottom and up<br/>
+			-Fixed crash when changing number of shortcuts per page in Preferences<br/>
+			-Respring is not needed anymore for every changes made<br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>1.7.4</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
