@@ -6,6 +6,7 @@
             -Added search apps ability<br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
 			-Fixed sorting by name not working properly for non-localized app name<br/>
+			-Loading status is now showing when it's populating the apps list
             ]]>
 		</change>
 	</changes>
