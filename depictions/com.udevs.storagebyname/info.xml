@@ -1,10 +1,10 @@
 <package>
 	<id>com.udevs.storagebyname</id>
 	<name>StorageByName</name>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -16,8 +16,9 @@
 	<shortDescription>Sort apps storage in Preferences by name, size and date</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            <b>Sort apps storage in Preferences by name, size and date</b><br/><br/>
-            Compatible with iOS 10+<br/><br/>
+            <b>Sort and search apps storage in Preferences by name, size, last used and install date.</b><br/><br/>
+            Compatible with iOS 11+<br/>
+            Might work on lower iOS version as basic support is added, but not tested<br/><br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
 		]]>
 		</description>
@@ -30,7 +31,10 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-            First Release
+            <b>NEW FEATURES:</b><br/>
+            -Added search apps ability<br/><br/>
+			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Fixed sorting by name not working properly for non-localized app name<br/>
             ]]>
 		</change>
 	</changelog>
