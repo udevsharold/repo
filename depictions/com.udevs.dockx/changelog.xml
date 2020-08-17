@@ -1,5 +1,25 @@
 <changelog>
     <changes>
+        <version>2.0.0</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -15 new shortcuts!<br/>
+            -Added double tap gesture<br/>
+            -Added shooting star gesture<br/>
+            -Added third-party tweak shortcuts: CopyLog*, Translomatic*, Wasabi* & Pasithea*<br/>
+            -Added Prev. & Next Word shortcuts<br/>
+            -Added Line Start & End shortcuts<br/>
+            -Added Start & End of Paragraph shortcuts<br/>
+            -Added Start & End of Sentence shortcuts<br/>
+            -Added Select Line, Select Paragraph & Select Sentence shortcuts<br/>
+            *Package needs to be installed for shortcut to show.
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+	       -Fixed not being able to add shortcuts in "Manage Shortcuts" section when only single shortcut is enabled<br/>
+	       -Fixed "quick path" in iOS 13 remembered its last position after toggled Barmoji<br/><br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>1.7.5</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>

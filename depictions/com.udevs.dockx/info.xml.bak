@@ -1,23 +1,23 @@
 <package>
-            <id>com.udevs.dockx</id>
-            <name>DockX</name>
-            <version>2.0.0</version>
-            <compatibility>
-                        <firmware>
-                                    <miniOS>12.0</miniOS>
-                        </firmware>
-            </compatibility>
-            <dependencies>
-                        <package><![CDATA[
+	<id>com.udevs.dockx</id>
+	<name>DockX</name>
+	<version>1.7.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
 			mobilesubstrate<br/>
 			rocketbootstrap<br/>
 			alderis<br/>
 			]]>
-                        </package>
-            </dependencies>
-            <shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
-            <descriptionlist>
-                        <description><![CDATA[
+		</package>
+	</dependencies>
+	<shortDescription>Pasteboard shortcuts on your dock!</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
             <i>This package depends Alderis package from Chariz: <a href="https://chariz.com/">https://chariz.com/</a></i><br/><br/>
             <b>Add pasteboard shortcuts to your keyboard dock!</b><br/><br/>
             Supporting notched devices (X, XS, XR, 11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak. Compatible with Barmoji. If you own an iPad, check out XPad.<br/><br/>
@@ -73,39 +73,36 @@
             
             *Package needs to be installed for shorcut to show.
 		]]>
-                        </description>
-            </descriptionlist>
-            <screenshots>
-                        <screenshot>
-                                    <description>Shortcuts on keyboard dock</description>
-                                    <image>DockX.png</image>
-                        </screenshot>
-            </screenshots>
-            <changelog>
-                        <change><![CDATA[
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Shortcuts on keyboard dock</description>
+			<image>DockX.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             -15 new shortcuts!<br/>
+            -Added third-party tweak shortcuts: CopyLog, Translomatic, Wasabi & Pasithea<br/>
             -Added double tap gesture<br/>
-            -Added shooting star gesture<br/>
-            -Added third-party tweak shortcuts: CopyLog*, Translomatic*, Wasabi* & Pasithea*<br/>
             -Added Prev. & Next Word shortcuts<br/>
             -Added Line Start & End shortcuts<br/>
             -Added Start & End of Paragraph shortcuts<br/>
             -Added Start & End of Sentence shortcuts<br/>
             -Added Select Line, Select Paragraph & Select Sentence shortcuts<br/>
-            *Package needs to be installed for shortcut to show.
             <br/><br/>
-            <b>FIXES & IMPROVEMENTS:</b><br/>
-	-Fixed not being able to add shortcuts in "Manage Shortcuts" section when only single shortcut is enabled<br/>
-	-Fixed "quick path" in iOS 13 remembered its last position after toggled Barmoji<br/><br/>
+			<b>FIXES & IMPROVEMENTS:</b><br/>
+			-Fixed not being able to add shorcuts in "Manage Shorcuts" section when only single shorcut is enabled<br/>
             ]]>
-                        </change>
-            </changelog>
-            <links>
-                        <link>
-                                    <name>/r/jailbreak</name>
-                                    <url>https://www.reddit.com/r/jailbreak</url>
-                                    <iconclass>fa fa-reddit</iconclass>
-                        </link>
-            </links>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
