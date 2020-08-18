@@ -1,5 +1,20 @@
 <changelog>
     <changes>
+        <version>2.1.0</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added "Advanced Settings" in Preferences for insets and offsets adjusting<br/>
+            -Added dummy search bar in main page, "Manage Shortcuts" and "Advanced Settings" for easy overview of keyboard looks<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed "Shooting Star" gesture inserting predictive word in iOS 13<br/>
+            -Fixed "Shooting Star" false positive</i><br/>
+            -Fixed Cursor Left long press gesture not moving exponentially<br/>
+            -Mitigated the effect of scrolling back to previous page when shortcut tapped<br/>
+            -Fixed crash when changing number of shortcuts per page in Preferences<br/>
+            -Fixed "quick path" in iOS 13 remembered its last position when scrolling using space bar<br/><br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.0.0</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>

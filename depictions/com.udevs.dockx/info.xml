@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.0.0</version>
+            <version>2.1.0</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -67,7 +67,13 @@
             -Wasabi*<br/>
             -Pasithea*<br/><br/>
             
-            and many more long press gesture for the shortcuts<br/><br/>
+            Available gesture:<br/>
+            -Single tap<br/>
+            -Long Press<br/>
+            -Double Tap<br/>
+            -"Shooting Star"<br/><br/>
+            
+            and many more long press gesture for the each shortcut<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a><br/><br/>
             
@@ -84,20 +90,15 @@
             <changelog>
                         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -15 new shortcuts!<br/>
-            -Added double tap gesture<br/>
-            -Added shooting star gesture<br/>
-            -Added third-party tweak shortcuts: CopyLog*, Translomatic*, Wasabi* & Pasithea*<br/>
-            -Added Prev. & Next Word shortcuts<br/>
-            -Added Line Start & End shortcuts<br/>
-            -Added Start & End of Paragraph shortcuts<br/>
-            -Added Start & End of Sentence shortcuts<br/>
-            -Added Select Line, Select Paragraph & Select Sentence shortcuts<br/>
-            *Package needs to be installed for shortcut to show.
-            <br/><br/>
+            -Added "Advanced Settings" in Preferences for insets and offsets adjusting<br/>
+            -Added dummy search bar in main page, "Manage Shortcuts" and "Advanced Settings" for easy overview of keyboard looks<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-	-Fixed not being able to add shortcuts in "Manage Shortcuts" section when only single shortcut is enabled<br/>
-	-Fixed "quick path" in iOS 13 remembered its last position after toggled Barmoji<br/><br/>
+            -Fixed "Shooting Star" gesture inserting predictive word in iOS 13<br/>
+            -Fixed "Shooting Star" false positive</i><br/>
+            -Fixed Cursor Left long press gesture not moving exponentially<br/>
+            -Mitigated the effect of scrolling back to previous page when shortcut tapped<br/>
+            -Fixed crash when changing number of shortcuts per page in Preferences<br/>
+            -Fixed "quick path" in iOS 13 remembered its last position when scrolling using space bar<br/><br/>
             ]]>
                         </change>
             </changelog>
