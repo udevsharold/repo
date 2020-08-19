@@ -104,7 +104,8 @@
             *Package needs to be installed for shortcut to show.
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-	       -Fixed not being able to add shortcuts in "Manage Shortcuts" section when only single shortcut is enabled<br/><br/>
+	-Fixed not being able to add shortcuts in "Manage Shortcuts" section when only single shortcut is enabled<br/>
+	-Removed integrated CopyLog shortcut, it's now an independent shortcut. Reconfigure it in "Manage Shortcuts".<br/>
             ]]>
 		</change>
 	</changelog>
