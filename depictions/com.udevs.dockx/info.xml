@@ -94,7 +94,7 @@
             -Added dummy search bar in main page, "Manage Shortcuts" and "Advanced Settings" for easy overview of keyboard looks<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             -<i>Fixed misalignment introduced in v2.1.0 due to typo</i><br/>
-            -<i>Fixed a rare bug where keyboard type shortcut changed other shortcut's icon unsolicitedly</i><br/>
+            -<i>Fixed a rare bug where keyboard type shortcut changed other shortcut's icon unsolicitedly</i><br/></b>
             -Fixed "Shooting Star" gesture inserting predictive word in iOS 13<br/>
             -Fixed "Shooting Star" false positive</i><br/>
             -Fixed Cursor Left long press gesture not moving exponentially<br/>
