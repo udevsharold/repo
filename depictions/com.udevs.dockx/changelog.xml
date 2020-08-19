@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>2.1.2</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Not available<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -No major update, just some cleaning here and there, since this will be the latest update for a while<br/><br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.1.1</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>

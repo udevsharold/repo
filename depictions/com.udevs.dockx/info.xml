@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.1.1</version>
+            <version>2.1.2</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -73,7 +73,7 @@
             -Double Tap<br/>
             -"Shooting Star"<br/><br/>
             
-            and many more default long press gesture for the each shortcut<br/><br/>
+            and many more default long press gesture for each shortcut<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a><br/><br/>
             
@@ -93,8 +93,11 @@
             -Added "Advanced Settings" in Preferences for insets and offsets adjusting<br/>
             -Added dummy search bar in main page, "Manage Shortcuts" and "Advanced Settings" for easy overview of keyboard looks<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -<i>Fixed misalignment introduced in v2.1.0 due to typo</i><br/>
-            -<i>Fixed a rare bug where keyboard type shortcut changed other shortcut's icon unsolicitedly</i><br/></br>
+            -<i>No major update, just some cleaning here and there, since this will be the latest update for a while</i><br/><br/>
+            
+            -Fixed misalignment introduced in v2.1.0 due to typo<br/>
+            -Fixed a rare bug where keyboard type shortcut changed other shortcut's icon unsolicitedly<br/></br>
+            
             -Fixed "Shooting Star" gesture inserting predictive word in iOS 13<br/>
             -Fixed "Shooting Star" false positive</i><br/>
             -Fixed Cursor Left long press gesture not moving exponentially<br/>

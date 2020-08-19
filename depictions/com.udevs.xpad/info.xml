@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.xpad</id>
 	<name>XPad</name>
-	<version>1.3.0</version>
+	<version>2.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -20,9 +20,13 @@
 		<description><![CDATA[
             <i>This package depends Alderis package from Chariz: <a href="https://chariz.com/">https://chariz.com/</a></i><br/><br/>
             <b>Add customizable pasteboard shortcuts to your iPad keyboard! If you own an iPhone, check out DockX.</b><br/><br/>
-            Supporting iPadOS (13.0+). Compatible with CopyLog.<br/><br/>
+            Supporting iPadOS (13.0+).<br/><br/>
             Available shortcuts:<br/>
+            -Select <br/>
             -Select All<br/>
+            -Select Line<br/>
+            -Select Paragraph<br/>
+            -Select Sentence<br/>
             -Copy<br/>
             -Paste<br/>
             -Cut<br/>
@@ -44,13 +48,35 @@
             -Dismiss Keyboard<br/>
             -Auto-Correction<br/>
             -Auto-Capitalization<br/>
-            -Keyboard Input Type (NumPad, PhonePad etc)<br/>
+            -Keyboard Input Type<br/>
             -Define Word<br/>
             -Shell Command<br/>
             -Insert Text<br/>
-            and many more long press gesture on the shortcuts<br/><br/>
+            -Previous Word<br/>
+            -Next Word<br/>
+            -Line Start<br/>
+            -Line End<br/>
+            -Start of Paragraph<br/>
+            -End of Paragraph<br/>
+            -Start of Sentence<br/>
+            -End of Sentence<br/><br/>
+            
+            Third-party tweak shortcuts:<br/>
+            -CopyLog*<br/>
+            -Translomatic*<br/>
+            -Wasabi*<br/>
+            -Pasithea*<br/><br/>
+            
+            Available gestures:<br/>
+            -Single tap<br/>
+            -Long Press<br/>
+            -Double Tap<br/><br/>
+            
+            and many more default long press gesture for each shortcut<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
-            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a><br/><br/>
+            
+            *Package needs to be installed for shortcut to show.
 		]]>
 		</description>
 	</descriptionlist>
@@ -67,9 +93,18 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Not available<br/><br/>
-			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Fixed potential crash in Preferences when scrolling to the very bottom and up<br/>
+            -15 new shortcuts!<br/>
+            -Added double tap gesture<br/>
+            -Added third-party tweak shortcuts: CopyLog*, Translomatic*, Wasabi* & Pasithea*<br/>
+            -Added Prev. & Next Word shortcuts<br/>
+            -Added Line Start & End shortcuts<br/>
+            -Added Start & End of Paragraph shortcuts<br/>
+            -Added Start & End of Sentence shortcuts<br/>
+            -Added Select Line, Select Paragraph & Select Sentence shortcuts<br/>
+            *Package needs to be installed for shortcut to show.
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+	       -Fixed not being able to add shortcuts in "Manage Shortcuts" section when only single shortcut is enabled<br/><br/>
             ]]>
 		</change>
 	</changelog>
