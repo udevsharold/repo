@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.1.2</version>
+            <version>2.1.3</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -90,20 +90,10 @@
             <changelog>
                         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added "Advanced Settings" in Preferences for insets and offsets adjusting<br/>
-            -Added dummy search bar in main page, "Manage Shortcuts" and "Advanced Settings" for easy overview of keyboard looks<br/><br/>
+            -Added "Smart Delete" by request<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -<i>No major update, just some cleaning here and there, since this will be the latest update for a while</i><br/><br/>
-            
-            -Fixed misalignment introduced in v2.1.0 due to typo<br/>
-            -Fixed a rare bug where keyboard type shortcut changed other shortcut's icon unsolicitedly<br/></br>
-            
-            -Fixed "Shooting Star" gesture inserting predictive word in iOS 13<br/>
-            -Fixed "Shooting Star" false positive</i><br/>
-            -Fixed Cursor Left long press gesture not moving exponentially<br/>
-            -Mitigated the effect of scrolling back to previous page when shortcut tapped<br/>
-            -Fixed crash when changing number of shortcuts per page in Preferences<br/>
-            -Fixed "quick path" in iOS 13 remembered its last position when scrolling using space bar<br/><br/>
+            -Fixed dock mode not working properly<br/>
+            -Fixed uninstalled third-party tweak still showing up in Preferences<br/><br/>
             ]]>
                         </change>
             </changelog>

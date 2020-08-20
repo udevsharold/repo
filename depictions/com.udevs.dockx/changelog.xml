@@ -1,5 +1,15 @@
 <changelog>
     <changes>
+        <version>2.1.3</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added "Smart Delete" by request<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed dock mode not working properly<br/>
+            -Fixed uninstalled third-party tweak still showing up in Preferences<br/><br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.1.2</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>

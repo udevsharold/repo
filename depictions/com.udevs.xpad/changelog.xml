@@ -1,5 +1,14 @@
 <changelog>
 	<changes>
+		<version>2.0.1</version>
+		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added "Smart Delete"<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed uninstalled third-party tweak still showing up in Preferences<br/><br/>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>2.0.0</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
