@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.1.3</version>
+            <version>2.1.4</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -90,10 +90,10 @@
             <changelog>
                         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added "Smart Delete" by request<br/><br/>
+            -Not available
+            <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Fixed dock mode not working properly<br/>
-            -Fixed uninstalled third-party tweak still showing up in Preferences<br/><br/>
+            -Properly handle error in "Manage Shortcuts" after upgraded from old package
             ]]>
                         </change>
             </changelog>

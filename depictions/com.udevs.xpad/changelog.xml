@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>2.0.2</version>
+		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Not available
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Properly handle error in "Manage Shortcuts" after upgraded from old package
+            ]]>
+		</change>
+	</changes><changes>
 		<version>2.0.1</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
