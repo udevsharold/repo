@@ -90,10 +90,13 @@
             <changelog>
                         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Not available
+            -Added Globe & Dictation shortcuts
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Properly handle error in "Manage Shortcuts" after upgraded from old package
+            -Fixed crash in Preferences when upgraded from v1<br/>
+            -Fixed icons not displayed properly in iOS 12
+            <br/><br/>
+            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
             ]]>
                         </change>
             </changelog>

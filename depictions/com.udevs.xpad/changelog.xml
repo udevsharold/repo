@@ -1,5 +1,18 @@
 <changelog>
 	<changes>
+		<version>2.0.3</version>
+		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added Globe & Dictation shortcuts
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed potential crash in Preferences when upgraded from v1<br/>
+            -Fixed gestures not available when switching keyboard input language
+            <br/><br/>
+            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>2.0.2</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
