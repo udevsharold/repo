@@ -1,5 +1,17 @@
 <changelog>
     <changes>
+        <version>2.1.6</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Not available
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Improved some code logic and reducing tweak size by 3 precious kilobytes
+            <br/><br/>
+            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.1.5</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
