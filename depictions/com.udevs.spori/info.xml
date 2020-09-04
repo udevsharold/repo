@@ -1,0 +1,40 @@
+<package>
+	<id>com.udevs.spori</id>
+	<name>Spori</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Quickly play from Spotify using Siri on iOS 13</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Quickly play from Spotify using Siri on iOS 13. This tweak will add "on Spotify" to the end of the text. Configure keywords in Preferences.</b><br/><br/>
+            Compatible with iOS 13+<br/><br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+            First Release
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
