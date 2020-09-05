@@ -95,7 +95,7 @@
 	<changelog>
 	            <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            --Added Delete Forward shortcut
+            -Added Delete Forward shortcut
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             -Moved "Paste and Go" section into "Paste Behaviour" in extras
