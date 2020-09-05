@@ -1,8 +1,13 @@
 <changelog>
     <changes>
+        <version>1.1.10</version>
+        <change>Updated for "This is" playlist</change>
+    </changes>
+    <changes>
         <version>1.1.9</version>
         <change>Updated for Spotify v8.5.65</change>
-    </changes><changes>
+    </changes>
+    <changes>
         <version>1.1.8</version>
         <change>Updated for Spotify v8.5.60</change>
     </changes>
