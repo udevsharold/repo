@@ -1,5 +1,17 @@
 <changelog>
 	<changes>
+		<version>2.0.5</version>
+		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            --Added Delete Forward shortcut
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Moved "Paste and Go" section into "Paste Behaviour" in extras
+            <br/><br/>
+            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>2.0.4</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
