@@ -1,5 +1,23 @@
 <changelog>
     <changes>
+        <version>2.2.0</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -Added text style in addition to icon style<br/>
+            -Added options to adjust shortcut height, spacing and radius in "Advanced"<br/>
+            -Added ability to customize shorcut background color<br/>
+            -Support localization: If you wish to contribute in your local language, submit pull request at <a href="https://github.com/udevsharold/DockX-Localization">https://github.com/udevsharold/DockX-Localization</a>
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Boosted over 50% keyboard loading performance for demanding shortcuts<br/>
+            -Remedied shortcuts revert to default settings in the event of failed rocketbootstrap communication<br/>
+            -Fixed "Disabled Shortcuts" not showing cells after a "Reset" when all 45 shortcuts are enabled<br/>
+            -And few other bug fixes
+            <br/><br/>
+            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.1.7</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
