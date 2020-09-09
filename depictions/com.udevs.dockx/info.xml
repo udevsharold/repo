@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.2.0</version>
+            <version>2.2.1</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -94,7 +94,7 @@
             <b>NEW FEATURES:</b><br/>
             -Added text style in addition to icon style<br/>
             -Added options to adjust shortcut height, spacing and radius in "Advanced"<br/>
-            -Added ability to customize shorcut background color<br/>
+            -Added ability to customize shortcut background color<br/>
             -Support localization: If you wish to contribute in your local language, submit pull request at <a href="https://github.com/udevsharold/DockX-Localization">https://github.com/udevsharold/DockX-Localization</a>
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
