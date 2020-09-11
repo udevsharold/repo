@@ -1,0 +1,41 @@
+<package>
+	<id>com.udevs.morsecli</id>
+	<name>morse</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Translate text into morse code using the highly precise Taptic Engine (iOS 13+)</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Translate text into morse code using the highly precise Taptic Engine from terminal<br/><br/>
+            Usage: morse -t "translate this text"<br/><br/>
+            Compatible with iOS 13+ since it's using Apple's CoreHaptics Framework.<br/><br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+            -First Release
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
