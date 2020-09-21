@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.spotifyautoplay</id>
 	<name>SpotifyAutoPlay</name>
-	<version>1.1.10</version>
+	<version>1.1.11</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -26,7 +26,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-        <change>Updated for "This is" playlist</change>
+        <change>Added Zefy compatibility</change>
 	</changelog>
 	<links>
 		<link>
