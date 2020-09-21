@@ -23,9 +23,9 @@
             Features:<br/>
             -Automatically play last played track from Spotify when tapped the play button in control center<br/>
             -Activator extension. Which means you can automatically play from Spotify when Airpods or any headset is connected. Again, without any of your intecation!<br/>
-            -A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "zfy -h" in terminal for more details.<br/><br/>
+            -A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "zfy -h" in terminal for more details.For example in Activator, you could assign command zfy -lsn -u spotify:playlist:6piHLVTmzq8nTix2wIlM8x to any event to play from your favourite playlist. Only URI format playlist is supported. You could get it from desktop app, click share and "Copy Spotify URI".<br/><br/>
             
-            <b>This package is tested to be working on iOS 13.5 and Spotify 8.5.76.</b><br/><br/>
+            <b>This package tested to be working on iOS 13.5 and Spotify v8.5.76.</b><br/><br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
 		]]>
 		</description>
