@@ -1,0 +1,48 @@
+<package>
+	<id>com.udevs.zefy</id>
+	<name>Zefy</name>
+	<version>1.0.0~rc1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Absolutely zero click to play automatically from Spotify</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Absolutely zero click to play automatically from Spotify</b><br/><br/>
+            Zefy intends to functions as "default player" as much as possible. It is different from many tweaks (if any) out there as it requires none of your interaction to play from Spotify.<br/>
+            It even works without needing you to unlock your device first!<br/><br/>
+            
+            Features:<br/>
+            -Automatically play last played track from Spotify when tapped the play button in control center<br/>
+            -Activator extension. Which means you can automatically play from Spotify when Airpods or any headset is connected. Again, without any of your intecation!<br/>
+            -A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "zfy -h" in terminal for more details.<br/><br/>
+            
+            <b>This package is tested to be working on iOS 13.5 and Spotify 8.5.76.</b><br/><br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+            -First Release
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
