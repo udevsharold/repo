@@ -1,5 +1,14 @@
 <changelog>
 	<changes>
+		<version>1.0.0~rc2</version>
+		<change><![CDATA[
+            -Fixed CLI not working properly when app is in foreground<br/>
+            -Fixed multiple navigation of playlist page (CLI)<br/>
+            -Improved some logics<br/>
+            ]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.0~rc1</version>
 		<change>First Release</change>
 	</changes>
