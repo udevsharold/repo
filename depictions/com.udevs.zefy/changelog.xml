@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.0~rc3</version>
+		<version>1.0.0~rc4</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			-Supporting HTTP link and every possible URI format (artist/album/radio etc)<br/>
@@ -8,6 +8,7 @@
             <b>FIXES & IMPROVEMENTS:</b><br/>
             -Better handling slow response for older devices<br/>
             -Improved assurance check in the event of failure to start Spotify<br/>
+            -Fixed Activator icon<br/>
             ]]>
 		</change>
 	</changes><changes>
