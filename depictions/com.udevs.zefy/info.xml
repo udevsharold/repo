@@ -23,12 +23,13 @@
             Features:<br/>
             -Automatically play last played track from Spotify when tapped the play button in control center, given that you has no loaded track ("Music" word is showing). Little thing worth mention that, when you update the app (which you probably shouldn't until Zefy is added support for), the last played track was cleared by iOS (Spotify?), so when you tapped the play button, nothing will be played as there's no last played track.<br/>
             -Activator extension. Which means you can automatically play from Spotify when Airpods or any headset is connected. Again, without any of your interaction, it just plays!<br/>
-            -A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "zfy -h" in terminal for more details. For example in Activator, you could assign command "zfy -lsn -u spotify:playlist:6piHLVTmzq8nTix2wIlM8x" to any event to play from your favourite playlist. Only URI format playlist is supported. You could get it from desktop app, click share and "Copy Spotify URI".<br/>
-            
+            -A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "zfy -h" in terminal for more details. For example in Activator, you could assign command "zfy -lsn -u spotify:playlist:6piHLVTmzq8nTix2wIlM8x" to any event to play from your favourite playlist. You could get it from desktop app, click share and "Copy Spotify URI".<br/>
+            <br/>
             <b>This package tested to be working on iOS 13.5 and Spotify v8.5.76. Although some users reported that it works on iOS 12+.</b><br/><br/>
-            
-            </b>NOTE: When you update/install the Spotify app, the last played track was cleared by iOS (Spotify?), so when you tapped the play button in control center, nothing will be played as there's no last played track. So make sure you have at least played a song once from Spotify. This usually only require only once if you just updated/install Spotify.</b><br/><br/>
-            
+            <br/>
+            <b>NOTE: When you update/install the Spotify app, the last played track was cleared by iOS (Spotify?), so when you tapped the play button in control center, nothing will be played as there's no last played track. So make sure you have at least played a song once from Spotify. This usually only require only once if you just updated/install Spotify.
+            <br/>
+            <br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
 		]]>
 		</description>
