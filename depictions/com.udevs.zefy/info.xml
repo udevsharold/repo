@@ -38,7 +38,7 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			-Supporting HTTP link and every possible URI format (artist/album/radio etc)<br/>
+			-Supporting HTTP link and every possible URI format (artist/album/radio etc)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             -Better handling slow response for older devices<br/>
