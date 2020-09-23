@@ -20,7 +20,7 @@
             Zefy intends to functions as "default player" as much as possible. It is different from many tweaks (if any) out there as it requires none of your interaction to play from Spotify.<br/>
             It even works without needing you to unlock your device first!<br/><br/>
             
-            Features:<br/>
+            <b>Features:</b><br/>
             -Automatically play last played track from Spotify when tapped the play button in control center, given that you has no loaded track ("Music" word is showing). Little thing worth mention that, when you update the app (which you probably shouldn't until Zefy is added support for), the last played track was cleared by iOS (Spotify?), so when you tapped the play button, nothing will be played as there's no last played track.<br/>
             -Activator extension. Which means you can automatically play from Spotify when Airpods or any headset is connected. Again, without any of your interaction, it just plays!<br/>
             -A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "<i>zfy -h</i>" in terminal for more details. For example in Activator, you could assign command "<i>zfy -lsn -u spotify:playlist:6piHLVTmzq8nTix2wIlM8x</i>" to any event to play from your favourite playlist. You could get it from desktop app, click share and "Copy Spotify URI".<br/>
