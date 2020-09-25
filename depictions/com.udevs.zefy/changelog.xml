@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.1.1</version>
+		<version>1.0.1.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			-Added new Activator extensions: shuffle & like<br/>
