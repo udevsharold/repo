@@ -20,11 +20,13 @@
             Bakgrunnur is a backgrounding (or I should say foregrounding) tweak that will make your apps run infinitely in the background. It even works when your device is locked! Good thing about Bakgrunnur is that you have total control over how your apps should run. When people say they want the apps to run forever in the background, they don't really mean what they mean. Most of the time they want the apps to run in the background for a certain duration before it's being terminated by iOS. Bakgrunnur can do just that!<br/><br/>
             
             <b>Features:</b><br/>
-            -Expiration time for each individual app.<br/>
-            -Show indicator on homescreen when the apps is backgrounding by Bakgrunner<br/>
-            -Option to retire apps gracefully or terminate it when it's expired<br/>
-            -Control center module for easy enabling/disabling<br/>
+            <ul>
+            <li>-Expiration time for each individual app.</li><br/>
+            <li>-Show indicator on homescreen when the apps is backgrounding by Bakgrunnur</li><br/>
+            <li>-Option to retire apps gracefully or terminate it when it's expired</li><br/>
+            <li>-Control center module for easy enabling/disabling</li><br/>
             -CLI tool for those scripting nerds (like me)<br/>
+            </ul>
             <br/>
             <b>This package tested to be working on iOS 13.5. Might or might not work on lower iOS version.</b><br/><br/>
             <br/>
