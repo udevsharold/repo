@@ -25,7 +25,7 @@
             <li>Show indicator on homescreen when the apps is backgrounding by Bakgrunnur</li><br/>
             <li>Option to retire apps gracefully or terminate it when it's expired</li><br/>
             <li>Control center module for easy enabling/disabling</li><br/>
-            -CLI tool for those scripting nerds (like me)<br/>
+            <li>CLI tool for those scripting nerds (like me)</li><br/>
             </ul>
             <br/>
             <b>This package tested to be working on iOS 13.5. Might or might not work on lower iOS version.</b><br/><br/>
