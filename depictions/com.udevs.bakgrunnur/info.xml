@@ -21,10 +21,10 @@
             
             <b>Features:</b><br/>
             <ul>
-            <li>-Expiration time for each individual app.</li><br/>
-            <li>-Show indicator on homescreen when the apps is backgrounding by Bakgrunnur</li><br/>
-            <li>-Option to retire apps gracefully or terminate it when it's expired</li><br/>
-            <li>-Control center module for easy enabling/disabling</li><br/>
+            <li>Expiration time for each individual app.</li><br/>
+            <li>Show indicator on homescreen when the apps is backgrounding by Bakgrunnur</li><br/>
+            <li>Option to retire apps gracefully or terminate it when it's expired</li><br/>
+            <li>Control center module for easy enabling/disabling</li><br/>
             -CLI tool for those scripting nerds (like me)<br/>
             </ul>
             <br/>
