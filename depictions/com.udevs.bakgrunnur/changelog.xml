@@ -1,5 +1,18 @@
 <changelog>
 	<changes>
+		<version>1.1.1</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			-Added sort priority in "Manage Apps"<br/>
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed expiration bug introduced in v1.1.0<br/>
+            -Indicator on Dock now out of beta, it now should update synchronously with homesceeen indicator<br/>
+            -Fixed indicator not updating if termination is scheduled while screen is locked and app is still visible for eyes during locking<br/>
+            -Added -F flag for CLI<br/>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.1.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
