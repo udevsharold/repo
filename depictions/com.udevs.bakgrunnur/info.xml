@@ -25,6 +25,7 @@
             <li>Show indicator on homescreen when the apps is backgrounding by Bakgrunnur</li><br/>
             <li>Option to retire apps gracefully or terminate it when it's expired</li><br/>
             <li>Control center module for easy enabling/disabling</li><br/>
+            <li>Quick action (force/haptic touch menu) for each individual app on homescreen</li><br/>
             <li>CLI tool for those scripting nerds (like me)</li><br/>
             </ul>
             <br/>
