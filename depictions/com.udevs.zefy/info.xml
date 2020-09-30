@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.0.1.2</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -41,11 +41,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			-Added new Activator extensions: shuffle & like<br/>
-			-And bunch more for CLI: shuffle, like, repeat & add currently playing track to specific playlist
+			-None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -None<br/>
+            -Increased succesion rates and presumably reduced the time<br/>
             ]]>
 		</change>
 	</changelog>

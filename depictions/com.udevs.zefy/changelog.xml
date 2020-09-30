@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			-None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Increased succesion rates and presumably reduced the time<br/>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.1.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
