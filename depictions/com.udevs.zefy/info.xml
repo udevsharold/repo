@@ -44,7 +44,7 @@
 			-None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Apparently v1.0.2 didn't work as well as I expected, fallback to latest stable version for now<br/>
+            -Apparently v1.0.2 didn't work as well as I expected, fallback to latest stable build for now<br/>
             ]]>
 		</change>
 	</changelog>
