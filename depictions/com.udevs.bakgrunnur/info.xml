@@ -44,7 +44,7 @@
 			-Allow apps to dispatch notifications even though it's being backgrounded by Bakgrunnur. This is a beta feature, not enabled by default. Enable it in Preferences. If this works as expected, let me know on release post/Twitter so that it'll be enabled by default for all apps in future update.<br/>
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Added applist dependency
+            -Added applist dependency<br/>
             -Fixed reset didn't effectively applied until a respring
             ]]>
 		</change>
