@@ -1,7 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.3</version>
+		<change>Removed the needs to respring, use Apply instead</change>
+	</changes><changes>
 		<version>1.0.2</version>
-		<change>-Better respring</change>
+		<change>Better respring</change>
 	</changes><changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
