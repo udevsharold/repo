@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.0.2.1</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			-None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Apparently v1.0.2 didn't work as well as I expected, fallback to latest stable version for now<br/>
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

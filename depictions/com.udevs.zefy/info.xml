@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.0.2</version>
+	<version>1.0.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -44,7 +44,7 @@
 			-None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Increased succesion rates and presumably reduced the time<br/>
+            -Apparently v1.0.2 didn't work as well as I expected, fallback to latest stable version for now<br/>
             ]]>
 		</change>
 	</changelog>
