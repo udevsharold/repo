@@ -44,7 +44,7 @@
 			-None<br/>
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Retains other indicator types (offloaded & loading icons) if dot is preferred<br/>
+            -Added indicator on folder for nested applications<br/>
             ]]>
 		</change>
 	</changelog>
