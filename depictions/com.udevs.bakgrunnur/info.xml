@@ -42,8 +42,8 @@
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			-Added long pressing gesture on control center module. Customise the action in Control Center setting:<br/>
-			&nbsp;&nbsp;-open current app's setting or;<br/>
-			&nbsp;&nbsp;-enable backgrounding for current app<br/>
+			&tab;-open current app's setting or;<br/>
+			&tab;-enable backgrounding for current app<br/>
 			-Added "Advanced" mode. This will intelligently retire apps based on preferred CPU usage<br/>
 			-Added search apps ability in "Manage Apps"<br/>
 			-Added -A, -c and -s flags for CLI
