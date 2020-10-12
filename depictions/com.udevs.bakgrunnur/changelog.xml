@@ -4,8 +4,8 @@
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			-Added long pressing gesture on control center module. Customise the action in Control Center setting:<br/>
-			    -open current app's setting or;<br/>
-			    -enable backgrounding for current app
+			&nbsp;&nbsp;&nbsp;&nbsp;#open current app's setting or;<br/>
+			&nbsp;&nbsp;&nbsp;&nbsp;#enable backgrounding for current app
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             -None<br/>
