@@ -41,10 +41,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			-None
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Apparently v1.0.2 didn't work as well as I expected, fallback to latest stable build for now<br/>
+            •Apparently v1.0.2 didn't work as well as I expected, fallback to latest stable build for now<br/>
             ]]>
 		</change>
 	</changelog>
