@@ -27,7 +27,7 @@
             <li>Option to retire apps based on CPU usage</li><br/>
             <li>Control center module for easy enabling/disabling</li><br/>
             <li>Quick action (force/haptic touch menu) for each individual app on homescreen</li><br/>
-            <li>CLI tool for those scripting nerds (like me)</li><br/>
+            <li>CLI tool. <i>"bkg -h"</i> for more details</li><br/>
             </ul>
             <br/>
             <b>This package tested to be working on iOS 13.5. Might or might not work on lower iOS version.</b><br/><br/>
