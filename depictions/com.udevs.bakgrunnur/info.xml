@@ -42,17 +42,17 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			-Added long pressing gesture/force touch on control center module. Customise the action in Control Center setting:<br/>
-			&nbsp;&nbsp;&nbsp;&nbsp;+open current app's setting or;<br/>
-			&nbsp;&nbsp;&nbsp;&nbsp;+enable backgrounding for current app<br/>
-			-Added "Advanced" mode. This will intelligently retire apps based on preferred CPU usage<br/>
-			-Added search apps ability in "Manage Apps"<br/>
-			-Added -A, -c and -s flags for CLI
+			•Added long press gesture/force touch on control center module. Customise the action in Control Center setting:<br/>
+			&nbsp;&nbsp;&nbsp;&nbsp;‣open current app's setting or;<br/>
+			&nbsp;&nbsp;&nbsp;&nbsp;‣enable backgrounding for current app<br/>
+			•Added "Advanced" mode. This will intelligently retire apps based on preferred CPU usage<br/>
+			•Added search apps ability in "Manage Apps"<br/>
+			•Added -A, -c and -s flags for CLI
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Fixed threshold default to 5 when set to 0<br/>
-            -Changed default threshold to 0.5%<br/>
-            -Added indicator on folder for nested applications<br/>
+            •Fixed threshold default to 5 when set to 0<br/>
+            •Changed default threshold to 0.5%<br/>
+            •Added indicator on folder for nested applications<br/>
             ]]>
 		</change>
 	</changelog>
