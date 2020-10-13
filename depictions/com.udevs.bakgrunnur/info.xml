@@ -42,7 +42,7 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			-Added long pressing gesture on control center module. Customise the action in Control Center setting:<br/>
+			-Added long pressing gesture/force touch on control center module. Customise the action in Control Center setting:<br/>
 			&nbsp;&nbsp;&nbsp;&nbsp;+open current app's setting or;<br/>
 			&nbsp;&nbsp;&nbsp;&nbsp;+enable backgrounding for current app<br/>
 			-Added "Advanced" mode. This will intelligently retire apps based on preferred CPU usage<br/>
