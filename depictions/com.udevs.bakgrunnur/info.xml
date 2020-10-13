@@ -50,6 +50,8 @@
 			-Added -A, -c and -s flags for CLI
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed threshold default to 5 when set to 0<br/>
+            -Changed default threshold to 0.5%<br/>
             -Added indicator on folder for nested applications<br/>
             ]]>
 		</change>
