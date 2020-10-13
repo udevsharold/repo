@@ -23,7 +23,8 @@
             <ul>
             <li>Expiration time for each individual app.</li><br/>
             <li>Show indicator on homescreen when the apps is backgrounding by Bakgrunnur</li><br/>
-            <li>Option to retire apps gracefully or terminate it when it's expired</li><br/>
+            <li>Option to retire apps gracefully or terminate it when it's expired, or keeps it alive forever</li><br/>
+            <li>Option to retire apps based on CPU usage</li><br/>
             <li>Control center module for easy enabling/disabling</li><br/>
             <li>Quick action (force/haptic touch menu) for each individual app on homescreen</li><br/>
             <li>CLI tool for those scripting nerds (like me)</li><br/>
@@ -42,8 +43,8 @@
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			-Added long pressing gesture on control center module. Customise the action in Control Center setting:<br/>
-			&nbsp;&nbsp;&nbsp;&nbsp;#open current app's setting or;<br/>
-			&nbsp;&nbsp;&nbsp;&nbsp;#enable backgrounding for current app<br/>
+			&nbsp;&nbsp;&nbsp;&nbsp;+open current app's setting or;<br/>
+			&nbsp;&nbsp;&nbsp;&nbsp;+enable backgrounding for current app<br/>
 			-Added "Advanced" mode. This will intelligently retire apps based on preferred CPU usage<br/>
 			-Added search apps ability in "Manage Apps"<br/>
 			-Added -A, -c and -s flags for CLI
