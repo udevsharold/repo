@@ -22,57 +22,57 @@
             <b>Add customizable pasteboard shortcuts to your iPad keyboard! If you own an iPhone, check out DockX.</b><br/><br/>
             Supporting iPadOS (13.0+).<br/><br/>
             Available shortcuts:<br/>
-            -Select <br/>
-            -Select All<br/>
-            -Select Line<br/>
-            -Select Paragraph<br/>
-            -Select Sentence<br/>
-            -Copy<br/>
-            -Paste<br/>
-            -Cut<br/>
-            -Undo<br/>
-            -Redo<br/>
-            -Beginning of Document<br/>
-            -Ending of Document<br/>
-            -Capitalize<br/>
-            -Lowercase<br/>
-            -Uppercase<br/>
-            -Delete<br/>
-            -Bold<br/>
-            -Italic<br/>
-            -Underline<br/>
-            -Cursor Left<br/>
-            -Cursor Right<br/>
-            -Cursor Up<br/>
-            -Cursor Down<br/>
-            -Dismiss Keyboard<br/>
-            -Auto-Correction<br/>
-            -Auto-Capitalization<br/>
-            -Keyboard Input Type<br/>
-            -Define Word<br/>
-            -Shell Command<br/>
-            -Insert Text<br/>
-            -Previous Word<br/>
-            -Next Word<br/>
-            -Line Start<br/>
-            -Line End<br/>
-            -Start of Paragraph<br/>
-            -End of Paragraph<br/>
-            -Start of Sentence<br/>
-            -End of Sentence<br/>            
-            -Globe<br/>
-            -Dictation<br/><br/>
+            •Select <br/>
+            •Select All<br/>
+            •Select Line<br/>
+            •Select Paragraph<br/>
+            •Select Sentence<br/>
+            •Copy<br/>
+            •Paste<br/>
+            •Cut<br/>
+            •Undo<br/>
+            •Redo<br/>
+            •Beginning of Document<br/>
+            •Ending of Document<br/>
+            •Capitalize<br/>
+            •Lowercase<br/>
+            •Uppercase<br/>
+            •Delete<br/>
+            •Bold<br/>
+            •Italic<br/>
+            •Underline<br/>
+            •Cursor Left<br/>
+            •Cursor Right<br/>
+            •Cursor Up<br/>
+            •Cursor Down<br/>
+            •Dismiss Keyboard<br/>
+            •Auto-Correction<br/>
+            •Auto-Capitalization<br/>
+            •Keyboard Input Type<br/>
+            •Define Word<br/>
+            •Shell Command<br/>
+            •Insert Text<br/>
+            •Previous Word<br/>
+            •Next Word<br/>
+            •Line Start<br/>
+            •Line End<br/>
+            •Start of Paragraph<br/>
+            •End of Paragraph<br/>
+            •Start of Sentence<br/>
+            •End of Sentence<br/>            
+            •Globe<br/>
+            •Dictation<br/><br/>
             
             Third-party tweak shortcuts:<br/>
-            -CopyLog*<br/>
-            -Translomatic*<br/>
-            -Wasabi*<br/>
-            -Pasithea*<br/><br/>
+            •CopyLog*<br/>
+            •Translomatic*<br/>
+            •Wasabi*<br/>
+            •Pasithea*<br/><br/>
             
             Available gestures:<br/>
-            -Single tap<br/>
-            -Long Press<br/>
-            -Double Tap<br/><br/>
+            •Single tap<br/>
+            •Long Press<br/>
+            •Double Tap<br/><br/>
             
             and many more default long press gesture for each shortcut<br/><br/>
             Go to setting page to manage your shortcuts.<br/><br/>
@@ -95,13 +95,13 @@
 	<changelog>
 	            <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Not available
+            •Not available
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            -Boosted over 50% keyboard loading performance for demanding shortcuts<br/>
-            -Remedied shortcuts revert to default settings in the event of failed rocketbootstrap communication<br/>
-            -Fixed "Disabled Shortcuts" not showing cells after a "Reset" when all 45 shortcuts are enabled<br/>
-            -And few other bug fixes
+            •Boosted over 50% keyboard loading performance for demanding shortcuts<br/>
+            •Remedied shortcuts revert to default settings in the event of failed rocketbootstrap communication<br/>
+            •Fixed "Disabled Shortcuts" not showing cells after a "Reset" when all 45 shortcuts are enabled<br/>
+            •And few other bug fixes
             <br/><br/>
             <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
             ]]>
