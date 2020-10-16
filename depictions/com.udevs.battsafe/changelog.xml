@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.1.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added option to show notification when max charge level reached<br/>
+			•Added action to continue charging from the notification center(force/haptic touch)
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed stop charging not working as intended on some devices
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
