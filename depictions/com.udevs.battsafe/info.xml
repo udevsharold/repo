@@ -45,7 +45,9 @@
 			•Added action to continue charging from the notification center(force/haptic touch)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed stop charging not working as intended on some devices
+            •Fixed stop charging not working as intended on some devices<br/>
+            •Fixed sometimes the charging level overshoot by few percent above preferred max charge level<br/>
+            •Dismiss keyboard when scrolling in Preferences
             ]]>
 		</change>
 	</changelog>
