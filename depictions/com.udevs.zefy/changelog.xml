@@ -1,5 +1,17 @@
 <changelog>
 	<changes>
+		<version>1.0.4</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added long pressing now playing cover art (iPhone & iPad) or now playing track bar (iPhone) to go to currently playing track's playlist page<br/>
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Updated for Spotify v8.5.81<br/>
+            •Now if Spotify has no loaded track, it'll automatically play from your library (Liked Songs)<br/>
+            •Fixed cold start playing tend to fails for the first time when there are other device playing remotely (Spotify Connect)
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.2.1</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

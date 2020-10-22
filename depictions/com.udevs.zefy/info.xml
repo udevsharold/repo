@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.0.2.1</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -24,6 +24,7 @@
             <ul>
             <li>Automatically play last played track from Spotify when tapped the play button in control center, given that you has no loaded track ("Music" word is showing). Little thing worth mention that, when you update the app (which you probably shouldn't until Zefy is added support for), the last played track was cleared by iOS (Spotify?), so when you tapped the play button, nothing will be played as there's no last played track.</li><br/>
             <li>Activator extensions. Which means you can automatically play from Spotify when Airpods or any headset is connected. Again, without any of your interaction, it just plays!</li><br/>
+            <li>Long press "Home" tab bar or cover art (iPad) brings you to currently playing track's playlist page</li><br/>
             <li>A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "<i>zfy -h</i>" in terminal for more details. For example in Activator, you could assign command "<i>zfy -lsn -u spotify:playlist:6piHLVTmzq8nTix2wIlM8x</i>" to any event to play from your favourite playlist. You could get it from desktop app, click share and "Copy Spotify URI".</li><br/>
             </ul>
             <br/>
@@ -41,10 +42,12 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•None
+			•Added long pressing now playing cover art (iPhone & iPad) or now playing track bar (iPhone) to go to currently playing track's playlist page<br/>
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Apparently v1.0.2 didn't work as well as I expected, fallback to latest stable build for now<br/>
+            •Updated for Spotify v8.5.81<br/>
+            •Now if Spotify has no loaded track, it'll automatically play from your library (Liked Songs)<br/>
+            •Fixed cold start playing tend to fails for the first time when there are other device playing remotely (Spotify Connect)
             ]]>
 		</change>
 	</changelog>
