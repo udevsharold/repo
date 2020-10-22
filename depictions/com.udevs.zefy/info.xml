@@ -47,7 +47,7 @@
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Updated for Spotify v8.5.81<br/>
             •Now if Spotify has no loaded track, it'll automatically play from your library (Liked Songs)<br/>
-            •Fixed cold start playing tend to fails for the first time when there are other device playing remotely (Spotify Connect)
+            •Fixed cold start playing tend to fails for the first time when there are other devices playing remotely (Spotify Connect)
             ]]>
 		</change>
 	</changelog>
