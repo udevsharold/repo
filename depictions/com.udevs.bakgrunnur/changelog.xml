@@ -1,6 +1,17 @@
 <changelog>
 	<changes>
-		<version>1.1.5.1</version>
+		<version>1.1.5.4</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed notification feature (BETA)<br/>
+            •Fixed some CLI output formatting<br/>
+            ]]>
+		</change>
+	</changes><changes>
+		<version>1.1.5.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			•Added 6 Activator extensions<br/>
@@ -8,6 +19,7 @@
 			•Added -C, -K and -k flags for CLI
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed some CLI output formatting<br/>
             •Removed Activator dependency<br/>
             •Another attempt in improvising notification feature<br/>
             •Dismiss keyboard while scrolling in Preferences
