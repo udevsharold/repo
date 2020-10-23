@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.bakgrunnur</id>
 	<name>Bakgrunnur</name>
-	<version>1.1.5.5</version>
+	<version>1.1.5.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -47,8 +47,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed notification feature? This <b><i>should</i></b> finally make notification works as expected. Whether it work or not for you, please let me know, and hopefully I can finally make it out of BETA<br/>
-            •Fixed some CLI output formatting<br/>
+            •Fixed tweak not working properly on some devices since v1.1.5.2 update
             ]]>
 		</change>
 	</changelog>
