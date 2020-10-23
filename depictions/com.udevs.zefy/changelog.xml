@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.0.5</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed Zefy might not working properly on some devices<br/>
+            •Removed Activator dependency
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.4</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
