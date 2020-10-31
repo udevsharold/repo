@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.0.5</version>
+	<version>1.0.5.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -45,8 +45,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed Zefy might not working properly on some devices<br/>
-            •Removed Activator dependency
+            •Improvised Zefy to continue playing on local device when there is remote device playing
             ]]>
 		</change>
 	</changelog>
