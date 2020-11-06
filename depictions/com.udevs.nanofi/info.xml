@@ -13,10 +13,10 @@
 			]]>
 		</package>
 	</dependencies>
-	<shortDescription>Make Apple Watch use WiFi instead of Bluetooth when possible</shortDescription>
+	<shortDescription>Make Apple Watch uses WiFi instead of Bluetooth when possible</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-			By default, Apple Watch prioritized Bluetooth connection, which makes transferring of music etc. very slow. NanoFi will reverse this by making WiFi as default connection. Note that your Apple Watch will have to be connected to WiFi for this to work.<br/><br/>
+			By default, Apple Watch prioritized Bluetooth connection, which makes transferring of music etc. very slow. NanoFi will reverse this by making WiFi as default connection. Note that your Apple Watch needs to be connected to WiFi for this to work.<br/><br/>
             
             Only tested on iOS 13.5<br/>
             
