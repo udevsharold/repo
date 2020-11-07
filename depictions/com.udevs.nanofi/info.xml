@@ -18,7 +18,7 @@
 		<description><![CDATA[
 			By default, Apple Watch prioritized Bluetooth connection, which makes transferring of music etc. very slow. NanoFi will reverse this by making WiFi as default connection. Note that your Apple Watch needs to be connected to WiFi for this to work.<br/><br/>
             
-            Only tested on iOS 13.5<br/>
+            Only tested on iOS 13.5<br/><br/>
             
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
 		]]>
