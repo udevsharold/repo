@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>2.2.3.2</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            -None<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            -Fixed potential crash<br/>
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.2.3.1</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
