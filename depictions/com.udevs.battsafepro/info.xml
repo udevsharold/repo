@@ -26,7 +26,7 @@
             <li>Override stopped charging from notification</li><br/>
             <li>Control center module for easy enabling/disabling</li><br/>
             <li>Activator extensions</li><br/>
-            <li>Diagnostic tool</li><br/>
+            <li>Diagnostic tool (Only for iOS 13+)</li><br/>
             </ul>
             <br/>
             If you wish to contribute in localizing in your local language, submit pull request at <a href="https://github.com/udevsharold/BattSafePro-Localization">https://github.com/udevsharold/BattSafePro-Localization</a><br/><br/>
