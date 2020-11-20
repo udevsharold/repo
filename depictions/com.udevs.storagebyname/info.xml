@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.storagebyname</id>
 	<name>StorageByName</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -36,10 +36,11 @@
 	<changelog>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            -Added search apps ability<br/><br/>
+            -None
+            <br/><br/>
 			<b>FIXES & IMPROVEMENTS:</b><br/>
-			-Fixed sorting by name not working properly for non-localized app name<br/>
-			-Loading status is now showing when it's populating the apps list
+			•Uncluttered app searching interface<br/>
+			•Future-proofing for future iOS
             ]]>
 		</change>
 	</changelog>
