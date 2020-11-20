@@ -1,5 +1,18 @@
 <changelog>
 	<changes>
+		<version>1.0.0~rc2</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Improved stopping precision<br/>
+            •Added French (Crevette) & Czech (u/vladaad) localization<br/>
+            •Fixed preferences error for lower iOS (<13.0)<br/>
+            •Few other minor bug fixes
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.0~rc1</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
