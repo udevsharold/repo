@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.storagebyname</id>
 	<name>StorageByName</name>
-	<version>1.1.2</version>
+	<version>1.1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
