@@ -1,5 +1,17 @@
 <changelog>
 	<changes>
+		<version>1.0.0~rc3</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed device not charging bug for some users (more like Apple's own low-level bug)<br/>
+            •Automatically refresh diagnostic screen<br/>
+            •Few other improvements
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.0~rc2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

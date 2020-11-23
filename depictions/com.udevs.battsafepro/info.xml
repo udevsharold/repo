@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.battsafepro</id>
 	<name>BattSafePro</name>
-	<version>1.0.0~rc2</version>
+	<version>1.0.0~rc3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -45,10 +45,9 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Improved stopping precision<br/>
-            •Added French (Crevette) & Czech (u/vladaad) localization<br/>
-            •Fixed preferences error for lower iOS (<13.0)<br/>
-            •Few other minor bug fixes & improvements
+            •Fixed device not charging bug for some users (more like Apple's own low-level bug)<br/>
+            •Automatically refresh diagnostic screen<br/>
+            •Few other improvements
             ]]>
 		</change>
 	</changelog>
