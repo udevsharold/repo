@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.battsafepro</id>
 	<name>BattSafePro</name>
-	<version>1.0.0~rc3</version>
+	<version>1.0.0~rc4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -45,8 +45,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed device not charging bug for some users (more like Apple's own low-level bug)<br/>
-            •Automatically refresh diagnostic screen<br/>
+            •Updated Arabic (peterfectionn) localization<br/>
             •Few other improvements
             ]]>
 		</change>
