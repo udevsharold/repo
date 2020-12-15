@@ -1,0 +1,60 @@
+<package>
+	<id>com.udevs.campy</id>
+	<name>Campy</name>
+	<version>1.0.0~rc1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			rocketbootstrap
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Clear EXIF, make GIFs, import photos and more</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Clear EXIF, make GIFs, import photos and more</b><br/><br/>
+            Campy provides quicker way to clear EXIF from photos and videos and post it on Pasteboard. It also provides ability to make GIFs from live photos and videos from the Photos.app itself. Only compatible with iOS 13+<br/><br/>
+            
+            <b>Features:</b><br/>
+            <ul>
+            <li>Clear photos or videos EXIF</li><br/>
+            <li>Create GIFs from live photo or video</li><br/>
+            <li>Quickly copy photo or video to pasteboard EXIF-less</li><br/>
+            <li>Import photos or videos into camera roll from pasteboard</li><br/>
+            <li>Quickly post EXIF-less photo or video to pasteboard right after a photo is taken in Camera.app</li><br/>
+            <li>Expiration time for copied/posted photo or video</li><br/>
+            </ul>
+            <br/>
+            <br/>
+            <b>This package tested to be working on iOS 13.5. Might or might not work on other iOS version.</b><br/><br/>
+            <br/>
+            <br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•First Release
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
