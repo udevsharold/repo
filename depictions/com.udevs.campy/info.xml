@@ -28,6 +28,7 @@
             <li>Import photos or videos into camera roll from pasteboard</li><br/>
             <li>Quickly post EXIF-less photo or video to pasteboard right after a photo is taken in Camera.app</li><br/>
             <li>Expiration time for copied/posted photo or video</li><br/>
+            <li>Long press tab bar, toolbar or navigation bar (iPad) to reveal the action sheet</li><br/>
             </ul>
             <br/>
             <br/>
