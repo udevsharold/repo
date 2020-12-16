@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.battsafepro</id>
 	<name>BattSafePro</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -45,8 +45,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Added Japanese (himajin) localization<br/>
-            •Out of RC
+            •Fixed Handoff feature not working correctly
             ]]>
 		</change>
 	</changelog>
