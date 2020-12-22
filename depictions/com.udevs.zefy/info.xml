@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.0.5.1</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -45,7 +45,8 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Improvised Zefy to continue playing on local device when there is remote device playing
+            •Updated for Spotify v8.5.86<br/>
+            •Added --trackradio, --playlistradio and --radiofromuri flags to cli
             ]]>
 		</change>
 	</changelog>

@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.0.6</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Updated for Spotify v8.5.86<br/>
+            •Added --trackradio, --playlistradio and --radiofromuri flags to cli
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.5.1</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
