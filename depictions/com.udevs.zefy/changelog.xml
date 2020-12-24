@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.0.7</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed long pressing on cover art not working in v1.0.6
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.6</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.0.6</version>
+	<version>1.0.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -45,8 +45,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Updated for Spotify v8.5.86<br/>
-            •Added --trackradio, --playlistradio and --radiofromuri flags to cli
+            •Fixed long pressing on cover art not working in v1.0.6
             ]]>
 		</change>
 	</changelog>
