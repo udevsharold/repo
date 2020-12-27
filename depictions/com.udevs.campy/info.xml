@@ -44,7 +44,7 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added ability to duplicate w/o metadata for multiples items besides copy to pasteboard
+			•Added ability to duplicate w/o metadata for multiple items besides copy to pasteboard
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Fixed a crash

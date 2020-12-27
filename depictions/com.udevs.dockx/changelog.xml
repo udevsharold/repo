@@ -1,5 +1,15 @@
 <changelog>
     <changes>
+        <version>2.2.6</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •None<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added artifical delay for some multi-action shortcuts since some apps can't handle lighthing fast action (Telegram)<br/>
+            •Some other improvements
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.2.5</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
