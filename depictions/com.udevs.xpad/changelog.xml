@@ -1,5 +1,14 @@
 <changelog>
 	<changes>
+		<version>2.1.5</version>
+		<change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •None<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed tweak injection failed on Photos.app's markup tool
+            ]]>
+		</change>
+	</changes><changes>
 		<version>2.1.4</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
