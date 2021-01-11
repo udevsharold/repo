@@ -44,8 +44,8 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added network (download/upload speed) feature for Advanced mode
-			•Added \"Enable/Disable Once\" in quick action menu & control center module. Off by default. Your previously configured setting for this particular section was reset, reconfigure if needed.
+			•Added network (download/upload speed) feature for Advanced mode<br/>
+			•Added "Enable/Disable Once" in quick action menu & control center module. Off by default. Your previously configured setting for this particular section was reset, reconfigure if needed.
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Uncluttered settings UI<br/>
