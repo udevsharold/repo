@@ -1,5 +1,18 @@
 <changelog>
 	<changes>
+		<version>1.5.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added network (download/upload speed) feature for Advanced mode
+			•Added \"Enable/Disable Once\" in quick action menu & control center module. Off by default. Your previously configured setting for this particular section was reset, reconfigure if needed.
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Uncluttered settings UI<br/>
+            •Fixed indicator not updated for folder<br/>
+            •Some bug fixes & improvements
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.3.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
