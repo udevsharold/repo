@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.5.4</version>
+		<version>1.5.5</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			•Added network (download/upload speed) feature for Advanced mode<br/>
