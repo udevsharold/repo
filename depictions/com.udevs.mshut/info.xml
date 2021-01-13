@@ -1,0 +1,53 @@
+<package>
+	<id>com.udevs.mshut</id>
+	<name>MShut</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Truly mute chats in Messages</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Truly mute chats in Messages</b><br/><br/>
+            Hates that badge count on Messages when muted chats arrive? Get this tweak. It'll automatically mark those messages as read.
+            <b>Features:</b><br/>
+            <ul>
+            <li>Auto mark muted chats ("Hide Alerts" in Messages) as read. Effectively remove its badge count</li><br/>
+            <li>"Mark All as Read" force/haptic touch menu</li><br/>
+            </ul>
+            <br/>
+            <b>This package tested to be working on iOS 13.5. Might or might not work on lower iOS version.</b><br/><br/>
+            <br/>
+            <br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•First release
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
