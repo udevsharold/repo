@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.battsafepro</id>
 	<name>BattSafePro</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -45,7 +45,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed Handoff feature not working correctly
+        	•Fixed toggle "Deliver Quietly" requires a respring
             ]]>
 		</change>
 	</changelog>
