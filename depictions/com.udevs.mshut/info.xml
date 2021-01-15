@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.mshut</id>
 	<name>MShut</name>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -36,10 +36,11 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•First release
+			•Added option to keep unread indicator in the app. Off by default.
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
+            •Fixed badge count not removed in some situations, especially when device is in deep asleep<br/>
+            •Improved overall reliability, and this most likely will fix "Mark All as Read" not working for iOS 12
             ]]>
 		</change>
 	</changelog>
