@@ -17,7 +17,8 @@
 	<descriptionlist>
 		<description><![CDATA[
             <b>Backup deb file for Cydia, Zebra, and Installer</b><br/><br/>
-            Hoarded files stored in /var/mobile/Downloads/DebHoarder/*. No option to configure.<br/><br/>
+            Hoarded files stored in <i>/var/mobile/Downloads/DebHoarder/</i>.<br/>
+            No option to configure.<br/><br/>
             <b>Tested on Cydia v0.9, Zebra v1.2~beta8a, and Installer v5.1-72</b><br/><br/>
             <br/>
             <br/>
