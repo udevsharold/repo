@@ -6,8 +6,8 @@
 			•Added option to keep unread indicator in the app. Off by default.
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed badge count not removed in some situations, especially when device is in deep asleep<br/>
-            •Improved overall reliability, and this most likely will fix "Mark All as Read" not working for iOS 12
+            •Fixed badge count not removed in some situations, especially when device is in deep sleep<br/>
+            •Improved overall reliability, this most likely will fix "Mark All as Read" not working for iOS 12
             ]]>
 		</change>
 	</changes>
