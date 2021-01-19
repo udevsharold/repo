@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.0.7</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -42,10 +42,18 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•None
+			•Added double tap action to center center, where you can:<br/>
+			<ul>
+			<li>Play your liked songs</li><br/>
+            <li>Play randomly from library</li><br/>
+            <li>Play randomly from recently played</li><br/>
+            <li>Play random daily mixes made by Spotify</li><br/>
+            <li>Play from predefined URI</li><br/>
+            </ul>
+            •Also added similar actions for Activator<br/>
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed long pressing on cover art not working in v1.0.6
+            •Updated for Spotify v8.5.93
             ]]>
 		</change>
 	</changelog>

@@ -1,5 +1,23 @@
 <changelog>
 	<changes>
+		<version>1.1.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added double tap action to center center, where you can:<br/>
+			<ul>
+			<li>Play your liked songs</li><br/>
+            <li>Play randomly from library</li><br/>
+            <li>Play randomly from recently played</li><br/>
+            <li>Play random daily mixes made by Spotify</li><br/>
+            <li>Play from predefined URI</li><br/>
+            </ul>
+            •Also added similar actions for Activator<br/>
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Updated for Spotify v8.5.93
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.7</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
