@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.1.1</version>
+	<version>1.2.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -23,6 +23,7 @@
             <b>Features:</b><br/>
             <ul>
             <li>Automatically play last played track from Spotify when tapped the play button in control center, given that you has no loaded track ("Music" word is showing). Little thing worth mention that, when you update the app (which you probably shouldn't until Zefy is added support for), the last played track was cleared by iOS (Spotify?), so when you tapped the play button, nothing will be played as there's no last played track.</li><br/>
+            <li>Double tap control center module for more options</li><br/>
             <li>Activator extensions. Which means you can automatically play from Spotify when Airpods or any headset is connected. Again, without any of your interaction, it just plays!</li><br/>
             <li>Long press cover art brings you to currently playing track's playlist page</li><br/>
             <li>A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "<i>zfy -h</i>" in terminal for more details. For example in Activator, you could assign command "<i>zfy -lsn -u spotify:playlist:6piHLVTmzq8nTix2wIlM8x</i>" to any event to play from your favourite playlist. You could get it from desktop app, click share and "Copy Spotify URI".</li><br/>
@@ -42,19 +43,11 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added double tap action to center center, where you can:<br/>
-			<ul>
-			<li>Play your liked songs</li><br/>
-            <li>Play randomly from library</li><br/>
-            <li>Play randomly from recently played</li><br/>
-            <li>Play random daily mixes made by Spotify</li><br/>
-            <li>Play from predefined URI</li><br/>
-            </ul>
-            •Also added similar actions for Activator<br/>
+			•Added Zefy menu that will present tonnes of actions<br/>
+            •Added opening Zefy menu for Activator<br/>
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Updated for Spotify v8.5.93<br/>
-            •Updated CLI
+            •None
             ]]>
 		</change>
 	</changelog>
