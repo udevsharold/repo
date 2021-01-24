@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.2.0</version>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -47,7 +47,7 @@
             •Added opening Zefy menu for Activator<br/>
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
+            •Fixed custom URI field overlapped by keyboard
             ]]>
 		</change>
 	</changelog>
