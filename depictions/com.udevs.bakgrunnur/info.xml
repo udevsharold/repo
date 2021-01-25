@@ -26,7 +26,7 @@
             <li>Expiration time for each individual app.</li><br/>
             <li>Show indicator on homescreen when the apps is backgrounding by Bakgrunnur</li><br/>
             <li>Option to retire apps gracefully or terminate it when it's expired, or keeps it alive forever</li><br/>
-            <li>Option to retire apps based on CPU usage</li><br/>
+            <li>Option to retire apps based on CPU usage, system calls, and networking</li><br/>
             <li>Control center module for easy enabling/disabling</li><br/>
             <li>Quick action (force/haptic touch menu) for each individual app on homescreen</li><br/>
             <li>CLI tool. <i>"bkg -h"</i> for more details</li><br/>
