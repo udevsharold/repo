@@ -47,7 +47,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Added --launch, --launchf, and launchb flags to cli (for launching apps in background & locked while being respected by Bakgrunnur)
+            •Added --launch, --launchf, and --launchb flags to cli (for launching apps in background & locked while being respected by Bakgrunnur)
             ]]>
 		</change>
 	</changelog>
