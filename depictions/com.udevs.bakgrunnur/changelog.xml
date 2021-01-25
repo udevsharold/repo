@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.5.8</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added --launch, --launchf, and launchb flags to cli (for launching apps in background & locked while being respected by Bakgrunnur)
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.5.7</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
