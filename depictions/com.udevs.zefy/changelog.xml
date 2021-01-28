@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.2.2</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Hotfix for duplication of menu blocked touches
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.2.1</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
