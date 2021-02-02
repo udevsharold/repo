@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.3.3</version>
+	<version>1.3.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -53,6 +53,7 @@
 			•Added "Advanced" section
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed crash on v1.3.3 & some other improvements<br/>
             •Fixed many bugs that I don't remember anymore
             ]]>
 		</change>
