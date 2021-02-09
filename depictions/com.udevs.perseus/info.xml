@@ -9,7 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package><![CDATA[
-			mobilesubstrate
+			mobilesubstrate<br/>
 			iOS 13+
 			]]>
 		</package>
