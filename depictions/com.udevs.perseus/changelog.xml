@@ -1,5 +1,18 @@
 <changelog>
 	<changes>
+		<version>1.1.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added haptic feedback on AW after successfully authenticated<br/>
+			•Added option to disable FaceID failure vibration<br/>
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Unlock to homescreen if intended, or stay at lock screen otherwise<br/>
+            •Forbid the creation of token if AW not on wrist<br/>
+            •Other improvements
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
