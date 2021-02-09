@@ -28,7 +28,7 @@
             <br/>
             Read the full release post on <a href="https://www.reddit.com/r/jailbreak/comments/ldxhsz/free_release_perseus_unlock_iphone_with_apple/">reddit</a><br/><br/>
             
-            NOTE: After installed/upgraded this package, you'll notice that immediately after you might need to enter passcode twice. That's becuase the AW daemon was killed after installation, and hasn't started yet. Just wait for it to automatically respawn by system (you can verify this from the battery widget).<br/><br/>
+            NOTE: After installed/upgraded this package, you'll notice that immediately after you might need to enter passcode twice. That's because the AW daemon was killed after installation, and hasn't started yet. Just wait for it to automatically respawn by system (you can verify this from the battery widget).<br/><br/>
 
             <b>Support X series iPhone on iOS 13+. This package tested to be working on iPhone X iOS 13.5, and with Apple Watch S5 on watchOS 6.2.8. Might or might not work on different combinations.</b><br/><br/>
             <br/>
@@ -50,7 +50,7 @@
             •Forbid the creation of token if AW not on wrist<br/>
             •Other improvements<br/><br/>
             
-            NOTE: To address a question I was asked: after installed/upgraded this package, you'll notice that immediately after you might need to enter passcode twice. That's becuase the AW daemon was killed after installation, and hasn't started yet. Just wait for it to automatically respawn by system (you can verify this from the battery widget).
+            NOTE: To address a question I was asked: after installed/upgraded this package, you'll notice that immediately after you might need to enter passcode twice. That's because the AW daemon was killed after installation, and hasn't started yet. Just wait for it to automatically respawn by system (you can verify this from the battery widget).
             ]]>
 		</change>
 	</changelog>
