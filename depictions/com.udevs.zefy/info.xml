@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.3.4</version>
+	<version>1.3.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -43,18 +43,11 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Revamped menu UI for iOS 13, now with playback controls<br/>
-			•Added add to queue and fast seeking controls<br/>
-			•Added "Made for You" (by Spotify)<br/>
-			•Added three new gestures: triple tap, swipe left, and swipe right on control center<br/>
-			•Added more actions for gestures: like/unlike, add/remove to/from my playlist, shuffle, repeat, and add to queue<br/>
-			•Added ability to automatically dismiss control center when menu is presenting<br/>
-			•Added few more Activator actions<br/>
-			•Added "Advanced" section
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed crash on v1.3.3 & some other improvements<br/>
-            •Fixed many bugs that I don't remember anymore
+            •Now efficiently playing from Spotify, do it in "Apple" way, rather than in hacky way. Effectively reduced tweak size by 3KB!<br/>
+            •Removed daemon hooking
             ]]>
 		</change>
 	</changelog>

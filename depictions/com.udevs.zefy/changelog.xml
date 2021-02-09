@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.3.7</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Now efficiently playing from Spotify, do it in "Apple" way, rather than in hacky way. Effectively reduced tweak size by 3KB!<br/>
+            •Removed daemon hooking
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.3.4</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
