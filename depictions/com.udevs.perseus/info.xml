@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.perseus</id>
 	<name>Perseus</name>
-	<version>1.1.0</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -42,15 +42,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added haptic feedback on AW after successfully authenticated<br/>
-			•Added option to disable FaceID failure vibration<br/>
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Unlock to homescreen if intended, or stay at lock screen otherwise<br/>
-            •Forbid the creation of token if AW not on wrist<br/>
-            •Other improvements<br/><br/>
-            
-            NOTE: To address a question I was asked: after installed/upgraded this package, you'll notice that immediately after you might need to enter passcode twice. That's because the AW daemon was killed after installation, and hasn't started yet. Just wait for it to automatically respawn by system (you can verify this from the battery widget).
+            •Compiled arm64e slice for iOS 14 (does not mean it's verify to works on iOS 14)
             ]]>
 		</change>
 	</changelog>
