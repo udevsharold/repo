@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.5.9</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Compiled arm64e slice for iOS 14
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.5.8</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
