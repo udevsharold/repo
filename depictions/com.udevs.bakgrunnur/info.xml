@@ -47,7 +47,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Compiled arm64e slice for iOS 14 (does not mean it's verify to works on iOS 14)
+            •Compiled arm64e slice for iOS 14 (does not mean it's verified to works on iOS 14)
             ]]>
 		</change>
 	</changelog>
