@@ -39,7 +39,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Finally fixed badge count not removing in some situations. I think.<br/>
+            •Really fixed badge count not removing in some situations. I think.<br/>
             •Removed "Keep Unread Indicator", sorry, it's buggy<br/>
             •Compiled arm64e slice for iOS 14
             ]]>
