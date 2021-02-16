@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.3.11</version>
+	<version>1.3.12</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
