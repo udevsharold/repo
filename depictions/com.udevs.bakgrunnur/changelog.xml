@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.5.10</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added "Persistence Once Token" - revoke "Once" token only if terminated via app switcher
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed indicator not updating for "Enabled Once" apps<br/>
+            •Fixed incorrect default value for expiration when it's left empty
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.5.9</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
