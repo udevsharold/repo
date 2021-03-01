@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>1.4.17</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •None<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added iOS 14.x support
+            ]]>
+        </change>
+    </changes><changes>
         <version>1.4.16</version>
         <change><![CDATA[
             -Fixed typo in Settings

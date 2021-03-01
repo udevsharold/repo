@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.dictmojix</id>
 	<name>DictMojiX</name>
-	<version>1.4.16</version>
+	<version>1.4.17</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -25,7 +25,10 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-            -Fixed typo in Settings
+            <b>NEW FEATURES:</b><br/>
+            •None<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added iOS 14.x support
             ]]>
         </change>
 	</changelog>

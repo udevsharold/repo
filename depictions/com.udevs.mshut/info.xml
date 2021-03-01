@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.mshut</id>
 	<name>MShut</name>
-	<version>1.1.5</version>
+	<version>1.1.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -39,9 +39,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Really fixed badge count not removing in some situations. I think.<br/>
-            •Removed "Keep Unread Indicator", sorry, it's buggy<br/>
-            •Compiled arm64e slice for iOS 14
+            •Compiled for iOS 14.x
             ]]>
 		</change>
 	</changelog>

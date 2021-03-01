@@ -1,12 +1,24 @@
 <changelog>
 	<changes>
-		<version>2.1.5</version>
+		<version>2.1.6</version>
 		<change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             •None<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed tweak injection failed on Photos.app's markup tool
+            •Added support for iOS 14.x<br/>
+            •Removed Alderis as dependency since it's causing crash on iOS 14.x (arm64e)<br/>
+            •<b>ALERT: Remove Alderis if your App Store crash!<b/><br/>
+            •Uses libsparkcolourpicker instead (repo: <a href="https://sparkdev.me/">https://sparkdev.me/</a>)
             ]]>
+		</change>
+	</changes><changes>
+		<version>2.1.5</version>
+		<change><![CDATA[
+             <b>NEW FEATURES:</b><br/>
+             •None<br/><br/>
+             <b>FIXES & IMPROVEMENTS:</b><br/>
+             •Fixed tweak injection failed on Photos.app's markup tool
+             ]]>
 		</change>
 	</changes><changes>
 		<version>2.1.4</version>
