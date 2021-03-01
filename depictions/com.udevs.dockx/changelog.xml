@@ -7,7 +7,7 @@
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Added support for iOS 14.x<br/>
             •Removed Alderis as dependency since it's causing crash on iOS 14.x (arm64e)<br/>
-            •<b>ALERT: Remove Alderis if your App Store crash!<b/><br/>
+            •<b>NOTE: Remove Alderis if your App Store crash!</b><br/>
             •Uses libsparkcolourpicker instead (repo: <a href="https://sparkdev.me/">https://sparkdev.me/</a>)
             ]]>
         </change>
