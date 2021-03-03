@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.5.11</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added support for iOS 14.x<br/>
+            •Fixed "Once" didn't respect "Half-asleep" flag
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.5.10</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
