@@ -1,6 +1,26 @@
 <changelog>
 	<changes>
+		<version>2.0.5</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed small jitter when fast unlock into homescreen that has the widget displayed
+            ]]>
+		</change>
+	</changes><changes>
 		<version>2.0.4</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed offset for single device view
+            ]]>
+		</change>
+	</changes><changes>
+		<version>2.0.3</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			•None
