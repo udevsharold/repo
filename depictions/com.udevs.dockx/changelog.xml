@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>2.2.9</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •None<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed weird barmoji switching animation in iOS 14.x
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.2.8</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
