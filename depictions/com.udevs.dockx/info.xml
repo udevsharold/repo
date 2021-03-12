@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.2.9</version>
+            <version>2.3.0</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -11,14 +11,14 @@
                         <package><![CDATA[
 			mobilesubstrate<br/>
 			rocketbootstrap<br/>
-			alderis<br/>
+			libsparkcolourpicker<br/>
 			]]>
                         </package>
             </dependencies>
             <shortDescription>Pasteboard shortcuts on your keyboard dock!</shortDescription>
             <descriptionlist>
                         <description><![CDATA[
-            <i>This package depends Alderis package from Chariz: <a href="https://chariz.com/">https://chariz.com/</a></i><br/><br/>
+            <i>This package depends libsparkcolourpicker package from SparkDev: <a href="https://sparkdev.me/">https://sparkdev.me/</a></i><br/><br/>
             <b>Add pasteboard shortcuts to your keyboard dock!</b><br/><br/>
             Supporting notched devices (X, XS, XR, 11) running iOS 12-13. Mostly works with iPhone X UI enabling tweak. Compatible with Barmoji. If you own an iPad, check out XPad.<br/><br/>
             Available shortcuts:<br/>
@@ -68,7 +68,8 @@
             •CopyLog*<br/>
             •Translomatic*<br/>
             •Wasabi*<br/>
-            •Pasithea*<br/><br/>
+            •Pasithea*<br/>
+            •Copypasta*<br/><br/>
             
             Available gestures:<br/>
             •Single tap<br/>
@@ -94,9 +95,10 @@
             <changelog>
                         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            •None<br/><br/>
+            •Added Copypasta shortcut
+            <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed weird barmoji switching animation in iOS 14.x
+            •None
             <br/><br/>
             <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
             ]]>

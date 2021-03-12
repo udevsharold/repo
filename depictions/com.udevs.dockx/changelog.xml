@@ -1,5 +1,15 @@
 <changelog>
     <changes>
+        <version>2.3.0</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •Added Copypasta shortcut
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+        </change>
+    </changes><changes>
         <version>2.2.9</version>
         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>

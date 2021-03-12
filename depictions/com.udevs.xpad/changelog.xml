@@ -1,7 +1,17 @@
 <changelog>
-	<changes>
-		<version>2.1.6</version>
-		<change><![CDATA[
+ <changes>
+  <version>2.2.0</version>
+  <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •Added Copypasta shortcut
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+  </change>
+ </changes><changes>
+  <version>2.1.6</version>
+  <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
             •None<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
@@ -10,8 +20,8 @@
             •<b>NOTE: Remove Alderis if your App Store crash!</b><br/>
             •Uses libsparkcolourpicker instead (repo: <a href="https://sparkdev.me/">https://sparkdev.me/</a>)
             ]]>
-		</change>
-	</changes><changes>
+  </change>
+ </changes><changes>
 		<version>2.1.5</version>
 		<change><![CDATA[
              <b>NEW FEATURES:</b><br/>
