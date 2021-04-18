@@ -10,7 +10,6 @@
 	<dependencies>
 		<package><![CDATA[
 			mobilesubstrate<br/>
-			rocketbootstrap
 			]]>
 		</package>
 	</dependencies>
