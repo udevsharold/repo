@@ -3,7 +3,7 @@
 		<version>1.2.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added banners (on by default). Requires vexillarius package<br/>
+			•Added banners for iOS 14.x (on by default). Requires vexillarius package<br/>
 			•Added "Fast Unlock" by utilizing RSSI cache (on by default)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
