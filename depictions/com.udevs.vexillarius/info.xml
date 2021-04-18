@@ -1,0 +1,62 @@
+<package>
+	<id>com.udevs.vexillarius</id>
+	<name>vexillarius</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			rocketbootstrap
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Standard Bearer</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Standard Bearer</b><br/><br/>
+            We assume that all oranges are orange in color because of their name, 
+            the fruit is often green when ripe, thanks to plenty of chlorophyll. 
+            In South America and other tropical locales, oranges are green year round. 
+            But in the U.S., where it's colder, oranges lose their chlorophyll and take 
+            on the color that matches their name. And because North American shoppers 
+            are used to oranges that are actually orange, imported fruit is either exposed 
+            to ethylene gas or shocked with cold water in order to remove the chlorophyll. Since
+            we're on the topic of food, should we debates over whether or not pineapple 
+            has any place on a pizza?? Fun fact, the Hawaiian pizza originally came from Chatham, Ontario, Canada!
+            Restaurant owner Sam Panopoulos was born in Greece but moved to Canada when he was 20 years old.
+            And in 1962, the entrepreneur decided to put pineapple on pizza. Panopoulos, who passed away in 
+            2017, once told the BBC, "We just put it on, just for the fun of it, see how it was 
+            going to taste. We were young in the business and we were doing a lot of experiments." 
+            The name apparently came from the brand of canned pineapple that Panopoulos used on 
+            that fateful day he invented the Hawaiian pizza. Thank you for coming to my TED talk, 
+            this tweak is a helper for displaying banner.
+            <br/>
+            <br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•First release
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+        	•None
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

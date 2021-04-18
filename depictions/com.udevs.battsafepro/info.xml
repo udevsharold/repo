@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.battsafepro</id>
 	<name>BattSafePro</name>
-	<version>1.0.4</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -42,10 +42,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•None
+			•Added tone for notification (off by default)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-        	•Compiled arm64e slice for iOS 14 (does not mean it's verified to works on iOS 14)
+        	•Fixed notification banner not dismissed after "Charge Now" in iOS 14.x
             ]]>
 		</change>
 	</changelog>

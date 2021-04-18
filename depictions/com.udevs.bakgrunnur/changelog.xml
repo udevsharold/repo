@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.5.14</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •"Retire" now fallback to "Terminate" in iOS 14.x due to unfixable. No action is required by you. This one bug drained the life out of me for weeks, so I decides to relinquish it for now for the sake of my own sanity. Details: Whenever an app is being "retired" by Bakgrunnur, subsequent launch of the app will not be able to "survive" backgrounding unless it's being terminated and relaunch.
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.5.13</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
