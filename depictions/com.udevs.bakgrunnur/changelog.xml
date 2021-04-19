@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.5.15</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed CLI commands revoked running apps unsolicitedly
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.5.14</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
