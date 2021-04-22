@@ -9,7 +9,8 @@
 	</compatibility>
 	<dependencies>
 		<package><![CDATA[
-			mobilesubstrate
+			mobilesubstrate<br/>
+			vexillarius
 			]]>
 		</package>
 	</dependencies>
