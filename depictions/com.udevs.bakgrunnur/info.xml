@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.bakgrunnur</id>
 	<name>Bakgrunnur</name>
-	<version>1.5.15</version>
+	<version>1.6.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -44,11 +44,11 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•None
+			•Added banners for iOS 14.x (on by default)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •"Retire" now fallback to "Terminate" in iOS 14.x due to unfixable. . No action is required by you. This one bug drained the life out of me for weeks, so I decides to relinquish it for now for the sake of my own sanity. Details: Whenever an app is being "retired" by Bakgrunnur, subsequent launch of the app will not be able to "survive" backgrounding unless it's being terminated and relaunch.<br/>
-            •Fixed CLI commands revoked running apps unsolicitedly
+            •Fixed "Retire" not working on iOS 14.x<br/>
+            •Some other fixes
             ]]>
 		</change>
 	</changelog>

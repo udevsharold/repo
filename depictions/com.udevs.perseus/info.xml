@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.perseus</id>
 	<name>Perseus</name>
-	<version>1.2.0</version>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -42,12 +42,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added banners for iOS 14.x (on by default). Requires vexillarius package<br/>
-			•Added "Fast Unlock" by utilizing RSSI cache (on by default)
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Improved reliability<br/>
-            •Significantly improved unlock speed thanks to "Fast Unlock"
+            •Fixed banners not presenting if haptic disabled
             ]]>
 		</change>
 	</changelog>
