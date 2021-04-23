@@ -1,13 +1,13 @@
 <changelog>
 	<changes>
-		<version>1.6.2</version>
+		<version>1.6.3</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			•Added "Aggresive" mode to further enhance backgrounding of apps (on by default)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Fixed apps being terminated by iOS after successfully retired (iOS 14.x) - screw you iOS 14, I dare you to break this implementation. Gimme me a break<br/>
-            •Improvised backgrounding thanks to "Aggresive" mode. This is actually a major code revamps although it's a X.X.2 iteration.
+            •Improvised backgrounding thanks to "Aggresive" mode. This is actually a major code revamps although it's a X.X.3 iteration.
             ]]>
 		</change>
 	</changes><changes>
