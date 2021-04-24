@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.6.6</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added more verbosity for banner of Advanced mode. C=Cpu, S=System calls, N=Network<br/>
+            •Purges remnants of "Once"
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.6.5</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
