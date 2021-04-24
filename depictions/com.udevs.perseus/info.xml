@@ -10,6 +10,7 @@
 	<dependencies>
 		<package><![CDATA[
 			mobilesubstrate<br/>
+			vexillarius<br/>
 			iOS 13+
 			]]>
 		</package>
