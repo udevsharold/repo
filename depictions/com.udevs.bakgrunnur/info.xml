@@ -31,9 +31,10 @@
             <li>Control center module for easy enabling/disabling</li><br/>
             <li>Quick action (force/haptic touch menu) for each individual app on homescreen</li><br/>
             <li>CLI tool. <i>"bkg -h"</i> for more details</li><br/>
+            <li>Banners (iOS 14.x+)</li><br/>
             </ul>
             <br/>
-            <b>This package tested to be working on iOS 13.5. Might or might not work on lower iOS version.</b><br/><br/>
+            <b>This package tested to be working on iOS 13.5 AND 14.3. Might or might not work on lower iOS version.</b><br/><br/>
             <br/>
             <br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
