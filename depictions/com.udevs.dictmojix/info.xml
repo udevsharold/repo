@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Replace dictation key with emoji key on iPhone X/XR/XS! Support iOS 11-13.</shortDescription>
+	<shortDescription>Replace dictation key with emoji key on iPhone X/XR/XS! Support iOS 11-14.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		Replace dictation key with emoji key on iPhone X//XR/XS! Support iOS 11-13. Long press to activate dictation/Memoji.
+		Replace dictation key with emoji key on iPhone X//XR/XS! Support iOS 11-14. Long press to activate dictation/Memoji.
 		]]>
 		</description>
 	</descriptionlist>
