@@ -32,7 +32,7 @@
             
             NOTE: After installed/upgraded this package, you'll notice that immediately after you might need to enter passcode twice. That's because the AW daemon was killed after installation, and hasn't started yet. Just wait for it to automatically respawn by system (you can verify this from the battery widget).<br/><br/>
 
-            <b>Support X series iPhone on iOS 13+. This package tested to be working on iPhone X iOS 13.5 AND 14.3, and with Apple Watch S5 on watchOS 6.2.8. Might or might not work on different combinations.</b><br/><br/>
+            <b>Support X series iPhone on iOS 13+. This package tested to be working on iPhone X iOS 13.5 AND 14.3, and with Apple Watch S5 on watchOS 6.2.8/7.3.3. Might or might not work on different combinations.</b><br/><br/>
             <br/>
             <br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
