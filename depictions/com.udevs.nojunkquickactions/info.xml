@@ -1,0 +1,46 @@
+<package>
+	<id>com.udevs.nojunkquickactions</id>
+	<name>NoJunkQuickActions</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Sanitize homescreen haptic/force touch menu</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Sanitize homescreen haptic/force touch menu</b><br/><br/>
+            Removes "Remove App", "Share App", and "Edit Home Screen" shortcuts menu from haptic/force touch menu in homescreen. No option to configure.
+            <br/>
+            <br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•First release
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
