@@ -1,0 +1,49 @@
+<package>
+	<id>com.udevs.loupe</id>
+	<name>Loupe</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			rocketbootstrap
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Magnifying glass for text fields</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Magnifying glass for text fields</b><br/><br/>
+            Resurrects magnifying glass on iOS 14!
+            <br/>
+            <b>This package tested to be working on iOS 14.3. Might or might not work on lower iOS version.</b><br/><br/>
+            <br/>
+            <br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•First release
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
