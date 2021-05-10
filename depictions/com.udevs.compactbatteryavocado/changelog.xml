@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>2.0.6</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed missing glyphs for style other than "Center"
+            ]]>
+		</change>
+	</changes><changes>
 		<version>2.0.5</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
