@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.vexillarius</id>
 	<name>vexillarius</name>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
@@ -47,7 +47,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-        	•<i>We've updated the app to fix some crashes and make features load faster.</i>
+        	•Minor bug fix
             ]]>
 		</change>
 	</changelog>
