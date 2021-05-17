@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.2.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added filtering for incoming messages - silence or "block" messages based on keywords
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.1.7</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
