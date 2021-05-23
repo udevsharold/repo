@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.3.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added call blocking, by regex or by country<br/>
+			•Added database for history of blocked/silenced messages and calls (see preferences)
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •I think I fixed some bugs, I forgot.
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.2.1</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
