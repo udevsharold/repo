@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.vedette</id>
 	<name>Vedette</name>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -13,14 +13,15 @@
 			]]>
 		</package>
 	</dependencies>
-	<shortDescription>Monitor and terminate CPU hogging processes</shortDescription>
+	<shortDescription>Monitor CPU hogging processes</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            <b>Monitor and terminate CPU hogging processes</b><br/><br/>
+            <b>Monitor and terminate/throttle CPU hogging processes</b><br/><br/>
             Vedette is a CPU usage monitoring tweak for processes in iOS like apps and daemons, and terminate it when they violate the maximum allowed percentage.<br/><br/>
             <b>Features:</b><br/>
             <ul>
             <li>Monitor CPU usage for apps and daemons</li><br/>
+            <li>Terminate/throttle processes that violate CPU limits</li><br/
             <li>Configurable CPU percentage and interval for each process</li><br/>
             </ul>
             <br/>
@@ -36,7 +37,7 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•First release
+			•Added ability to throttle CPU usage (in addtion to terminate)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •None
