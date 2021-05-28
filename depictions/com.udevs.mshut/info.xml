@@ -22,6 +22,9 @@
             <ul>
             <li>Auto mark muted chats ("Hide Alerts" in Messages) as read. Effectively remove its badge count</li><br/>
             <li>"Mark All as Read" force/haptic touch menu</li><br/>
+            <li>Remove muted messages automatically</li><br/>
+            <li>Block calls by regex or country</li><br/>
+            <li>Database for history of muted chats or blocked calls</li><br/>
             </ul>
             <br/>
             <b>This package tested to be working on iOS 13.5 AND 14.3. Might or might not work on lower iOS version.</b><br/><br/>
