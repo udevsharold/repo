@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.vedette</id>
 	<name>Vedette</name>
-	<version>1.1.3</version>
+	<version>1.1.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -37,11 +37,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added ability to throttle CPU usage (in addtion to terminate)
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed preferences not saving in last update<br/>
-            •Added consent prompt for some processes
+            •Fixed master switch not respected
             ]]>
 		</change>
 	</changelog>
