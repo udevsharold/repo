@@ -19,7 +19,7 @@
 		<description><![CDATA[
             <b>Controls battery charging behaviour</b><br/><br/>
             BattSafePro allows you to personalize charging behaviour for both iPhone & iPad. Developed for iOS 13+, might works on lower iOS versions.<br/><br/>
-            
+            Make sure you didn't disable "Log, dump and crash report daemons" in iCleaner.<br/><br/>
             <b>Features:</b><br/>
             <ul>
             <li>Stop charging at designated battery percentage</li><br/>
