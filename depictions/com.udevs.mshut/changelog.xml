@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.4.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added filter incoming messages by type: any, by phone, by email or by regex
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.3.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

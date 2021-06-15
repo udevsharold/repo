@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.mshut</id>
 	<name>MShut</name>
-	<version>1.3.0</version>
+	<version>1.4.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -22,7 +22,7 @@
             <ul>
             <li>Auto mark muted chats ("Hide Alerts" in Messages) as read. Effectively remove its badge count</li><br/>
             <li>"Mark All as Read" force/haptic touch menu</li><br/>
-            <li>Remove muted messages automatically</li><br/>
+            <li>Remove muted messages automatically and more</li><br/>
             <li>Block calls by regex or country</li><br/>
             <li>Database for history of muted chats or blocked calls</li><br/>
             </ul>
@@ -39,11 +39,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added call blocking, by regex or by country<br/>
-			•Added database for history of blocked/silenced messages and calls (see preferences)
+			•Added filter incoming messages by type: any, by phone, by email or by regex
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •I think I fixed some bugs, I forgot.
+            •None
             ]]>
 		</change>
 	</changelog>
