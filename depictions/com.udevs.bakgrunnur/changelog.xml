@@ -1,5 +1,19 @@
 <changelog>
 	<changes>
+		<version>1.7.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Switched to AltList<br/>
+            •Improvising preferences<br/>
+            •Removed rocketbootstrap dependency<br/>
+            •Added "W" for half-asleep in banner<br/>
+            •Code refactoring
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.6.6</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
