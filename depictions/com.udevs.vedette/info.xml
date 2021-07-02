@@ -21,11 +21,11 @@
             <b>Features:</b><br/>
             <ul>
             <li>Monitor CPU usage for apps and daemons</li><br/>
-            <li>Terminate/throttle processes that violate CPU limits</li><br/
+            <li>Terminate/throttle processes that violate CPU limits</li><br/>
             <li>Configurable CPU percentage and interval for each process</li><br/>
             </ul>
             <br/>
-            <b>This package tested to be working on iOS 14.3. Might or might not work on other iOS version.</b><br/><br/>
+            <b>This package tested to be working on iOS 14.3. Might or might not work on other iOS version. Theoretically, it should works on iOS 10+</b><br/><br/>
             <br/>
             <br/>
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
