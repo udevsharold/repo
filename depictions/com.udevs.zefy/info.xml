@@ -29,11 +29,8 @@
             <li>A CLI tool to play your favourite playlist instead of continuing playing what was last played. Enter "<i>zfy -h</i>" in terminal for more details. For example in Activator, you could assign command "<i>zfy -lsn -u spotify:playlist:6piHLVTmzq8nTix2wIlM8x</i>" to any event to play from your favourite playlist. You could get it from desktop app, click share and "Copy Spotify URI".</li><br/>
             </ul>
             <br/>
-            <b>This package tested to be working on iOS 13.5, 14.3 and Spotify version:<br/>
-            v8.5.81/v8.5.86/v8.5.93/<br/>
-            v8.6.0/v8.6.6/v8.6.18/<br/>
-            v8.6.22/v8.6.30/v8.6.40.<br/>
-            Although some users reported that it works on iOS 12+.</b><br/><br/>
+            <b>This package tested to be working on iOS 13.5, 14.3 and Spotify v8.5.81, v8.5.86, 
+            v8.5.93, v8.6.0, v8.6.6, v8.6.18, v8.6.22, v8.6.30, v8.6.40. Though, some users reported that it works on iOS 12+.</b><br/><br/>
             <br/>
             <b>NOTE: When you update/install the Spotify app, the last played track was cleared by iOS (Spotify?), so when you tapped the play button in control center, nothing will be played as there's no last played track. So make sure you have at least played a song once from Spotify. This usually only require only once if you just updated/install Spotify.</b>
             <br/>
