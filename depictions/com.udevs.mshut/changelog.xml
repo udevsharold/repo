@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.4.2</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Display more info for history in settings when tapped
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.4.1</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

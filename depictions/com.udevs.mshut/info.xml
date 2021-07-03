@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.mshut</id>
 	<name>MShut</name>
-	<version>1.4.1</version>
+	<version>1.4.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -39,10 +39,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added filter incoming messages by type: any, by phone, by email or by regex
+			•Display more info for history in settings when tapped
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Updated some descriptions in settings
+            •None
             ]]>
 		</change>
 	</changelog>
