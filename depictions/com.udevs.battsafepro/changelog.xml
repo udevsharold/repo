@@ -1,9 +1,19 @@
 <changelog>
 	<changes>
+		<version>1.1.3</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+        	•Fixed crash on iOS 13 introduced in v1.1.2
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.1.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added notification style options, "Compact" by default.
+			•Added notification style options, "Compact" by default
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
         	•Updated zh-Hans localization
