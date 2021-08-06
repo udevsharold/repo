@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.nanofi</id>
 	<name>NanoFi</name>
-	<version>0.1.1</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -13,12 +13,12 @@
 			]]>
 		</package>
 	</dependencies>
-	<shortDescription>Make Apple Watch uses WiFi instead of Bluetooth when possible</shortDescription>
+	<shortDescription>Make Apple Watch data transfer rate from iPhone go brrrrrrrr</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-			By default, Apple Watch prioritized Bluetooth connection, which makes transferring of music etc. very slow. NanoFi will reverse this by making WiFi as default connection. Note that your Apple Watch needs to be connected to WiFi for this to work.<br/><br/>
+			Speed up data transfer from iOS to Apple Watch rate. By default, Apple Watch prioritized Bluetooth connection, which makes transferring of music etc. very slow. NanoFi attempts to make WiFi as default connection. Note that your Apple Watch needs to be connected to local WiFi network (autojoin) for this to work. Please read the description in Settings for more info.<br/><br/>
             
-            Only tested on iOS 13.5<br/><br/>
+            This package tested to be working on iPhone X iOS 14.3, and with Apple Watch S5 on watchOS 7.3.3. Might or might not work on different combinations.<br/><br/>
             
             To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
 		]]>
@@ -29,10 +29,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•None
+			•If you're v0.1.1 user, this is a completely new tweak that does the same thing. The approach was changed. See release post for more info.
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Added postrm script
+            •None
             ]]>
 		</change>
 	</changelog>
