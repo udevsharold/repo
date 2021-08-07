@@ -1,5 +1,17 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added hourglass on CC module to indicates we're trying to request to use WiFi link (normal glyph on success)<br/>
+            •Keep glyph in sync after a respring<br/>
+            •Some other fixes
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
