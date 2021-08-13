@@ -15,7 +15,7 @@
 	<shortDescription>Mount Developer Disk Image on-device</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-			<b>Mount Developer Disk Image on-device</b><br/><br/>
+			<b>Mount Developer Disk Image on-device. Requires root access.</b><br/><br/>
 			
             This package tested to be working on iPhone X iOS 14.3. Might or might not work on other iOS version.<br/><br/>
             
