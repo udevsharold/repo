@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.nanofi</id>
 	<name>NanoFi</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -33,13 +33,11 @@ You’ll have to activate NanoFi via the CC module (the switch in Settings.app j
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•If you're v0.1.1 user, this is a completely new tweak that does the same thing. The approach was changed. See release post for more info.
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Added cross on CC module to indicates failed request<br/>
-            •Added hourglass on CC module to indicates we're trying to request to use WiFi link (normal glyph on success)<br/>
-            •Keep glyph in sync after a respring<br/>
-            •Some other fixes
+            •Fixed toggle uninformed when disabled in Settings.app<br/>
+            •Some other fixes<br/>
             ]]>
 		</change>
 	</changelog>
