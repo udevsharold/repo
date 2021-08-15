@@ -1,5 +1,4 @@
 <package>
-	<color name="background" paletteColor="black" /> 
 	<id>com.udevs.mountdmg</id>
 	<name>mountdmg</name>
 	<version>1.0.1</version>
