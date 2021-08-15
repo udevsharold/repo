@@ -13,15 +13,18 @@
 
 .link-item:hover {
     border: 1px solid #ddd;
-    background-color: #f5f5f5;
+    background-color: black;
+    color: white;
 }
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-    background-color: #fff;
+    background-color: black;
+    color: white;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: #f5f5f5;
+    background-color: black;
+    color: white;
 }
 
 .fa {
