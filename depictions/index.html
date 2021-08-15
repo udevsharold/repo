@@ -17,7 +17,7 @@
                                     color: white;
                                 }
                                 @media (max-width: 767px) {
-                                    body{background:green!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
+                                    body{background:black!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
                                 }
                                 .jumbotron-bg {
                                     background: green
@@ -63,7 +63,9 @@
                                     {"type":"list"
                                         ,"source" :"package>descriptionlist>description"
                                         ,"paragraphElement"	: "<li class='list-group-item'>"
-                                        ,"emptyListCallback":function(e){$("#descriptionPanel").hide()}
+                                        ,"emptyListCallback":function(e){$("#descriptionPanel").hide()
+                                        ,"background" : "black"
+                                        }
                                     }
                                     ,"#screenshotsLink"	:
                                     {"type":"custom"
