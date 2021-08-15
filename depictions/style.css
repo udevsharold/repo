@@ -8,6 +8,7 @@
     display: block;
     color: #337ab7 !important;
     text-align: left;
+    background-color: black;
 }
 
 .link-item:hover {
