@@ -58,8 +58,8 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         background-color: #000000;
     }
     
-    a:hover, a:active, a:focus {
-        color:#000000;
+    html.can-touch .link-item:focus{ /* disable hover effect when input is touch */
+        background-color: #000000;
     }
 
 }
