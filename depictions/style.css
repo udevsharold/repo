@@ -50,17 +50,16 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         border-color:  #383838;
     }
 
-    .link-item:hover {
-        border: 1px solid #ddd;
-        background-color: #000000;
-    }
-
     html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
         background-color: #000000;
     }
     
     html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         background-color: #000000;
+    }
+    
+    a:hover, a:active, a:focus {
+        color:#000000;
     }
 
 }
