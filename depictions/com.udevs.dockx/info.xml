@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.3.2</version>
+            <version>2.4.0</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -70,7 +70,8 @@
             •Wasabi*<br/>
             •Pasithea*<br/>
             •Copypasta*<br/>
-            •Loupe*<br/><br/>
+            •Loupe*<br/>
+            •Tranzlo*<br/><br/>
             
             Available gestures:<br/>
             •Single tap<br/>
@@ -96,10 +97,13 @@
             <changelog>
                         <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
-            •Added Loupe shortcut
+            •Added Tranzlo shortcut<br/>
+            •Added options for Spongebob text shortcuts (random, alternate, vowels, or consonents)
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
+            •Improved entropy of randomness for Spongebob text<br/>
+            •Reorganized some settings<br/>
+            •Code refactoring
             <br/><br/>
             <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
             ]]>
