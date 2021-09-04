@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.2.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added option to whitelist/blacklist apps<br/>
+			•Added option to disable on text fields<br/>
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.1.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
