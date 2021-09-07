@@ -1,5 +1,17 @@
 <changelog>
 	<changes>
+		<version>1.7.6</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added --master and --app flags for cli<br/>
+            •-i flag now can be optionally specified as an argument value: bkg [OPTIONS] <APP_IDENTIFIER><br/>
+            •Bug fixes for cli
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.7.5</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

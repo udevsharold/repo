@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.zefy</id>
 	<name>Zefy</name>
-	<version>1.4.0</version>
+	<version>1.4.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -44,11 +44,13 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added ability to add force/haptic touch shortcuts for Spotify (Quick Actions)
+			•Added "Your Top Mixes" (curated by Spotify)<br/>
+			•Added "Home Playlist" (curated by Spotify, as everything seen in home tab)<br/>
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed some bugs<br/>
-            •Updated for Spotify v8.6.56
+            •Fixed some quick actions<br/>
+            •Improvised backend code<br/>
+            •Updated for Spotify v8.6.58
             ]]>
 		</change>
 	</changelog>
