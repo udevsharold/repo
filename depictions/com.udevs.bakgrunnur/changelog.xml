@@ -7,7 +7,7 @@
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Added --master and --app flags for cli<br/>
-            •-i flag now can be optionally specified as an argument value: bkg [OPTIONS] <APP_IDENTIFIER><br/>
+            •-i flag now can be optionally specified as an argument value: bkg [OPTIONS] &lt;APP_IDENTIFIER&gt;<br/>
             •Bug fixes for cli
             ]]>
 		</change>
