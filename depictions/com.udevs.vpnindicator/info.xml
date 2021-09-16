@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.vpnindicator</id>
 	<name>Loupe</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -32,10 +32,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•First release
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
+            •Bug fixes & improvement
             ]]>
 		</change>
 	</changelog>
