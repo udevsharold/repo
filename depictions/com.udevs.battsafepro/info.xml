@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.battsafepro</id>
 	<name>BattSafePro</name>
-	<version>1.1.4</version>
+	<version>1.1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -43,11 +43,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added notification style options, "Compact" by default
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed crash on iOS 13 introduced in v1.1.2<br/>
-            •Updated zh-Hans localization
+            •Added Korean localization
             ]]>
 		</change>
 	</changelog>
