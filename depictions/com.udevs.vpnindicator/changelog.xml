@@ -3,7 +3,7 @@
 		<version>1.1.0</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added color selection
+			•Added color selection (required libCSColorPicker from https://creaturecoding.com/repo/)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Attempt to fix for devices with dual sim (I don't own dual sim device, the fix is either a hit or miss)

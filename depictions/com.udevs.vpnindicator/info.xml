@@ -16,6 +16,7 @@
 	<shortDescription>Indicates VPN state in status bar</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
+			<i>This package depends libCSColorPicker package from: <a href="https://creaturecoding.com/repo/">https://creaturecoding.com/repo/</a></i><br/><br/>
             <b>Indicates VPN state in status bar</b><br/><br/>
             Turn WiFi or cell signal icon to blue when VPN is active, intended for X-series iphones.
             <br/>
@@ -32,7 +33,7 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added color selection
+			•Added color selection (required libCSColorPicker from https://creaturecoding.com/repo/)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Attempt to fix for devices with dual sim (I don't own dual sim device, the fix is either a hit or miss)
