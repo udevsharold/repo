@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.1.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added color selection
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Attempt to fix for devices with dual sim (I don't own dual sim device, the fix is either a hit or miss)
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.0.1-1.0.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
