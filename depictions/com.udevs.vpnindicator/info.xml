@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.vpnindicator</id>
-	<name>Loupe</name>
-	<version>1.1,0</version>
+	<name>VPNIndicator</name>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -36,6 +36,8 @@
 			•Added color selection (required libCSColorPicker from https://creaturecoding.com/repo/)
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added reset button<br/>
+            •Well, invisible improvements here and there<br/><br/>
             •Attempt to fix for devices with dual sim (I don't own dual sim device, the fix is either a hit or miss)
             ]]>
 		</change>
