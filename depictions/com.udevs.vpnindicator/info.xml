@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.vpnindicator</id>
 	<name>VPNIndicator</name>
-	<version>1.1.3</version>
+	<version>1.1.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -33,12 +33,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added color selection (required libCSColorPicker from https://creaturecoding.com/repo/)
+			•Added invert option, indicates when VPN is inactive instead
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Added reset button<br/>
-            •Well, invisible improvements here and there<br/><br/>
-            •Attempt to fix for devices with dual sim (I don't own dual sim device, the fix is either a hit or miss)
+            •None
             ]]>
 		</change>
 	</changelog>

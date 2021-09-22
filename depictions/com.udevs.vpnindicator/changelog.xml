@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.1.4</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added invert option, indicates when VPN is inactive instead
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.1.1-1.1.3</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
