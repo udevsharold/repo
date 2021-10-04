@@ -26,6 +26,7 @@
             <ul>
             <li>No tweak hooking</li><br/>
             <li>Works in non-jailbroken mode</li><br/>
+            <li>iPhone & iPad (Wi-Fi/Cellular)</li><br/>
             <li>Profiles (import/export)</li><br/>      
             <li>CLI tool. <i>"akp -h"</i> for more details</li><br/>
             </ul>
