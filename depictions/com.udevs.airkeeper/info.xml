@@ -1,0 +1,59 @@
+<package>
+	<id>com.udevs.airkeeper</id>
+	<name>AirKeeper</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Control apps' wireless connectivity policy</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+            <b>Control apps' wireless connectivity policy</b><br/><br/>
+            This tweak replicates a feature in Chinese iPhone model by using Apple's own private APIs, which 
+            effectively writes to /var/preferences/com.apple.networkextension.plist. 
+            Either uninstalling this tweak, using the \"Restore\" in Settings, or delete the file (and userspace reboot) 
+            will revert all changes made. The file however store some other configurations, like VPN profiles. 
+            This tweak works on both iPhone and iPad (Wi-Fi/Cellular).<br/><br/>
+            <b>Features:</b><br/>
+            <ul>
+            <li>No tweak hooking</li><br/>
+            <li>Works in non-jailbroken mode</li><br/>
+            <li>Profiles (import/export)</li><br/>      
+            <li>CLI tool. <i>"akp -h"</i> for more details</li><br/>
+            </ul>
+            <br/>
+            <b>This package tested to be working on iOS 14.3. Might or might not work on lower iOS version.</b><br/><br/>
+            <br/>
+            <br/>
+            To support development: <a href="https://www.paypal.me/udevs">https://www.paypal.me/udevs</a>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•First release
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
