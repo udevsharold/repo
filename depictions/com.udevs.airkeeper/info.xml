@@ -19,8 +19,8 @@
             <b>Control apps' wireless connectivity policy</b><br/><br/>
             This tweak replicates a feature in Chinese iPhone model by using Apple's own private APIs, which 
             effectively writes to /var/preferences/com.apple.networkextension.plist. 
-            Either uninstalling this tweak, using the \"Restore\" in Settings, or delete the file (and userspace reboot) 
-            will revert all changes made. The file however store some other configurations, like VPN profiles. 
+            Either uninstalling this tweak, using the "Restore" button in Settings, or delete the file (and userspace reboot) 
+            will revert all changes made. The file approach however store some other configurations, like VPN profiles. 
             This tweak works on both iPhone and iPad (Wi-Fi/Cellular).<br/><br/>
             <b>Features:</b><br/>
             <ul>
