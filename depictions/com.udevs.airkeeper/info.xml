@@ -1,10 +1,10 @@
 <package>
 	<id>com.udevs.airkeeper</id>
 	<name>AirKeeper</name>
-	<version>1.0.1</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -20,11 +20,13 @@
             This tweak replicates a feature in Chinese iPhone model by using Apple's own private APIs, which 
             effectively writes to /var/preferences/com.apple.networkextension.plist. 
             Either uninstalling this tweak, using the "Restore" button in Settings, or delete the file (and userspace reboot) 
-            will revert all changes made. The file approach however store some other configurations, like VPN profiles. 
+            will revert all changes made, except per app VPNs profile. You could manually delete them in VPN section settings.
+            The file approach however store some other configurations, like VPN profiles. 
             This tweak works on both iPhone and iPad (Wi-Fi/Cellular).<br/><br/>
             <b>Features:</b><br/>
             <ul>
             <li>No tweak hooking</li><br/>
+            <li>VPN profile per app basis</li><br/>
             <li>Works in non-jailbroken mode</li><br/>
             <li>iPhone & iPad (Wi-Fi/Cellular)</li><br/>
             <li>Profiles (import/export)</li><br/>      
@@ -43,7 +45,7 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•First release
+			•Added VPN profile per app basis
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •None

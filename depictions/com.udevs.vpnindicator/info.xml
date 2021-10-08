@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.vpnindicator</id>
 	<name>VPNIndicator</name>
-	<version>1.1.4</version>
+	<version>1.1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -33,10 +33,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added invert option, indicates when VPN is inactive instead
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
+            •Invisible bug fixes & improvements
             ]]>
 		</change>
 	</changelog>
