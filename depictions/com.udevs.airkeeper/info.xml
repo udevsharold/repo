@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.airkeeper</id>
 	<name>AirKeeper</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -45,10 +45,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added VPN profile per app basis
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
+            •Fix CLI & per app VPNs rmeoval during uninstallation
             ]]>
 		</change>
 	</changelog>
