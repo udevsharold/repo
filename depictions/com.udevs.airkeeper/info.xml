@@ -23,7 +23,7 @@
             non-persistent. Persistent works in both non-jailbroken and jailbroken mode, and
             non-peristent only works in jailbroken mode. All these are achieved with absolutely zero
             tweak hooking and make use of Apple's public
-            NetworkExtension framework's private APIs , so I would assume it would be quite
+            NetworkExtension framework's private APIs, so I would assume it would be quite
             efficient. This tweak works on both iPhone and iPad (Wi-Fi/Cellular).<br/><br/>
             
             <b>Features:</b><br/>
@@ -31,7 +31,7 @@
             <li>No tweak hooking</li><br/>
             <li>Block apps's wireless connectivity (WiFi and/or cellular)*</li><br/>
             <li>Globally block/allow domains</li><br/>
-            <li>Granularly block/allow apps & daemons's wirelss connectivity and traffic</li><br/>
+            <li>Granularly block/allow apps & daemons's wireless connectivity and traffic</li><br/>
             <li>Granularly set VPN profile per app and per traffic basis*</li><br/>
             <li>Works in non-jailbroken mode*</li><br/>
             <li>iPhone & iPad (Wi-Fi/Cellular)</li><br/>
