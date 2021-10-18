@@ -22,7 +22,7 @@
             connectivity and policy for apps and daemons. It consists two mode: persistent; and
             non-persistent. Persistent works in both non-jailbroken and jailbroken mode, and
             non-peristent only works in jailbroken mode. All these are achieved with absolutely zero
-            tweak hooking (I'm actually very proud of this part) and make use of Apple's public
+            tweak hooking and make use of Apple's public
             NetworkExtension framework's private APIs , so I would assume it would be quite
             efficient. This tweak works on both iPhone and iPad (Wi-Fi/Cellular).<br/><br/>
             
