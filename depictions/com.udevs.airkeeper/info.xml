@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.airkeeper</id>
 	<name>AirKeeper</name>
-	<version>1.1.5</version>
+	<version>2.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -13,25 +13,33 @@
 			]]>
 		</package>
 	</dependencies>
-	<shortDescription>Control apps' wireless connectivity policy</shortDescription>
+	<shortDescription>Control wireless policy for apps and daemons</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            <b>Control apps' wireless connectivity policy</b><br/><br/>
-            This tweak replicates a feature in Chinese iPhone model by using Apple's own private APIs, which 
-            effectively writes to /var/preferences/com.apple.networkextension.plist. 
-            Either uninstalling this tweak, using the "Restore" button in Settings, or delete the file (and userspace reboot) 
-            will revert all changes made.
-            The file approach however store some other configurations, like VPN profiles. 
-            This tweak works on both iPhone and iPad (Wi-Fi/Cellular).<br/><br/>
+            <b>Control wireless policy for apps and daemons</b><br/><br/>
+            
+            This tweaks allows you to globally block/allow domains, or granulary control the wireless
+            connectivity and policy for apps and daemons. It consists two mode: persistent; and
+            non-persistent. Persistent works in both non-jailbroken and jailbroken mode, and
+            non-peristent only works in jailbroken mode. All these are achieved with absolutely zero
+            tweak hooking (I'm actually very proud of this part) and make use of Apple's public
+            NetworkExtension framework's private APIs , so I would assume it would be quite
+            efficient. This tweak works on both iPhone and iPad (Wi-Fi/Cellular).<br/><br/>
+            
             <b>Features:</b><br/>
             <ul>
             <li>No tweak hooking</li><br/>
-            <li>VPN profile per app basis</li><br/>
-            <li>Works in non-jailbroken mode</li><br/>
+            <li>Block apps's wireless connectivity (WiFi and/or cellular)*</li><br/>
+            <li>Globally block/allow domains</li><br/>
+            <li>Granularly block/allow apps & daemons's wirelss connectivity and traffic</li><br/>
+            <li>Granularly set VPN profile per app and per traffic basis*</li><br/>
+            <li>Works in non-jailbroken mode*</li><br/>
             <li>iPhone & iPad (Wi-Fi/Cellular)</li><br/>
             <li>Profiles (import/export)</li><br/>      
             <li>CLI tool. <i>"akp -h"</i> for more details</li><br/>
             </ul>
+            <br/>
+            *works in both jailbroken & non-jailbroken mode
             <br/>
             <b>This package tested to be working on iOS 14.3. Might or might not work on lower iOS version.</b><br/><br/>
             <br/>
@@ -45,10 +53,12 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added "Disconnect on Sleep" for per app VPNs (off by default)
+			•Added non-persistent mode (works only in jailbroken mode)<br/>
+			•Added global functionality<br/>
+			•Added new apps & daemons functionality<
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Bug fixes & improvements
+            •Fixed VPN authentication issue
             ]]>
 		</change>
 	</changelog>

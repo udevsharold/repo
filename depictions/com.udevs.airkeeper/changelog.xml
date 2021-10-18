@@ -1,5 +1,17 @@
 <changelog>
 	<changes>
+		<version>2.0.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added non-persistent mode (works only in jailbroken mode)<br/>
+			•Added global functionality<br/>
+			•Added new apps & daemons functionality<
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed VPN authentication issue
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.1.3-1.1.5</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
