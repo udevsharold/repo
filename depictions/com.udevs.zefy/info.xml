@@ -30,7 +30,7 @@
             </ul>
             <br/>
             <b>This package tested to be working on iOS 13.5, 14.3 and Spotify v8.5.81, v8.5.86, 
-            v8.5.93, v8.6.0, v8.6.6, v8.6.18, v8.6.22, v8.6.30, v8.6.40, v8.6.44, v8.6.46, v8.6.48, v8.6.56, v8.6.58, v8.6.60. Though, some users reported that it works on iOS 12+.</b><br/><br/>
+            v8.5.93, v8.6.0, v8.6.6, v8.6.18, v8.6.22, v8.6.30, v8.6.40, v8.6.44, v8.6.46, v8.6.48, v8.6.56, v8.6.58, v8.6.60, v8.6.72. Though, some users reported that it works on iOS 12+.</b><br/><br/>
             <br/>
             <b>NOTE: When you update/install the Spotify app, the last played track was cleared by iOS (Spotify?), so when you tapped the play button in control center, nothing will be played as there's no last played track. So make sure you have at least played a song once from Spotify. This usually only require only once if you just updated/install Spotify.</b>
             <br/>

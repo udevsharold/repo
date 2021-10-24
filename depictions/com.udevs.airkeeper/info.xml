@@ -57,7 +57,7 @@
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Fixed jetsam issue<br/>
-            •Unconstrained hosts limit (tested with a list of 37439 hosts<br/>
+            •Unconstrained hosts limit (tested with a list of 37439 hosts)<br/>
             •Your preferences might reset due to changed format
             ]]>
 		</change>
