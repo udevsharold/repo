@@ -1,5 +1,17 @@
 <changelog>
  <changes>
+  <version>2.4.2</version>
+  <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •None
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed potential WebView crash
+            <br/><br/>
+            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
+            ]]>
+  </change>
+ </changes><changes>
   <version>2.4.0-2.4.1</version>
   <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
