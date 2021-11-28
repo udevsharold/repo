@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.7.9</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Removed (the fogotten) linking against AppList
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.7.8</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
