@@ -1,5 +1,15 @@
 <changelog>
  <changes>
+  <version>2.4.3</version>
+  <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •None
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Inject into appex (app extension)
+            ]]>
+  </change>
+ </changes><changes>
   <version>2.4.2</version>
   <change><![CDATA[
             <b>NEW FEATURES:</b><br/>
@@ -7,8 +17,6 @@
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Fixed potential WebView crash
-            <br/><br/>
-            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
             ]]>
   </change>
  </changes><changes>
@@ -22,8 +30,6 @@
             •Improved entropy of randomness for Spongebob text<br/>
             •Reorganized some settings<br/>
             •Code refactoring
-            <br/><br/>
-            <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
             ]]>
   </change>
  </changes><changes>
