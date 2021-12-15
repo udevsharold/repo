@@ -16,7 +16,7 @@
 	<descriptionlist>
 		<description><![CDATA[
             <b>Simulate GPS location system-wide</b><br/><br/>
-            A tool to simulate GPS location system-wide. This tool simulates GPS location nativtely without any runtime injection (which could implies it works on tweak injection disabled apps), and it's how Apple do it. Run <i>locsim --help</i> for more info.
+            A tool to simulate GPS location system-wide. This tool simulates GPS location nativtely without any runtime injection (which could implies it works on tweak injection disabled apps), and it's how Apple do it. Run "<i>locsim --help</i>" for more info.<br/>
             <br/>
             <b>This package tested to be working on iOS 14.3. Might or might not work on lower iOS version.</b><br/><br/>
             <br/>
