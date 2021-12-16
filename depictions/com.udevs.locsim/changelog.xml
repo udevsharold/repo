@@ -1,6 +1,17 @@
 <changelog>
 	<changes>
-		<version>1.0.0-1.0.2/version>
+		<version>1.1.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added -g, --gpx for gpx file simulations (moving location simulation)<br/>
+			Added -fsglpdr and more flags
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
+            ]]>
+		</change>
+	</changes><changes>
+		<version>1.0.0-1.0.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
 			•First release

@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.locsim</id>
 	<name>locsim</name>
-	<version>1.0.2</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -16,7 +16,7 @@
 	<descriptionlist>
 		<description><![CDATA[
             <b>Simulate GPS location system-wide</b><br/><br/>
-            A tool to simulate GPS location system-wide. This tool simulates GPS location nativtely without any runtime injection (which could implies it works on tweak injection disabled apps), and it's how Apple do it. Run "<i>locsim --help</i>" for more info.<br/>
+            A tool to simulate GPS location system-wide. This tool simulates GPS location natively without any runtime injection (which could implies it works on tweak injection disabled apps), and it's how Apple do it. Run "<i>locsim --help</i>" for more info.<br/>
             <br/>
             <b>This package tested to be working on iOS 14.3. Might or might not work on lower iOS version.</b><br/><br/>
             <br/>
@@ -30,7 +30,8 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•First release
+			•Added -g, --gpx for gpx file simulations (moving location simulation)<br/>
+			Added -fsglpdr and more flags
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •None
