@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.locsim</id>
 	<name>locsim</name>
-	<version>1.1.2</version>
+	<version>1.1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -30,11 +30,13 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
+			•Added -c, --saccuracy, --caccuracy (>iOS 13.4) and few others<br/><br/>
 			•Added -g, --gpx for gpx file simulations (moving location simulation)<br/>
-			Added -fsglpdr and more flags
+			•Added -fsglpdr and more flags
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
+            •Changed --exportplist to --export-plist for readibility's sake<br/>
+            •Fine tunings
             ]]>
 		</change>
 	</changelog>

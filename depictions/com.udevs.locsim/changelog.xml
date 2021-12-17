@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.1.3</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added -c, --saccuracy, --caccuracy (>iOS 13.4) and few others<br/>
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Changed --exportplist to --export-plist for readibility's sake<br/>
+            •Fine tunings
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.1.0-1.1.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
