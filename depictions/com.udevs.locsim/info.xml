@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.locsim</id>
 	<name>locsim</name>
-	<version>1.1.7</version>
+	<version>1.1.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -33,8 +33,7 @@
 			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Removed support file<br/>
-            •Color coded error & warning messages
+            •Added more info on the value of --delivery & --repeat
             ]]>
 		</change>
 	</changelog>
