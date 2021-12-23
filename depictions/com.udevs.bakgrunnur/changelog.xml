@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.7.10</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•Added option to throttle cpu usage while backgrounding
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Removed vexillarius dependency for <iOS 14<br/>
+            •Bug fixes & improvements
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.7.9</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
