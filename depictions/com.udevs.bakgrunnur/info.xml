@@ -50,7 +50,7 @@
 			•Added option to throttle cpu usage while backgrounding
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Removed vexillarius dependency for \<iOS 14<br/>
+            •Removed vexillarius dependency for &lt;iOS 14<br/>
             •Bug fixes & improvements
             ]]>
 		</change>
