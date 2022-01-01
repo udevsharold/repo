@@ -24,7 +24,7 @@
             This feature was seen implemented by Apple in iOS 14.5 beta1<br/><br/>
             <b>Features:</b><br/>
             <ul>
-            <li>Unlock iPhone with an Apple Watch</li><br/>
+            <li>Unlock iPhone & apps with an Apple Watch</li><br/>
             <li>Automatically lock iPhone when Apple Watch no longer authenticated</li><br/>
             <li>Banners when unlocked using Perseus (iOS 14.x)</li><br/>
             </ul>
