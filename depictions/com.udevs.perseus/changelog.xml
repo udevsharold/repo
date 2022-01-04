@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.4.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Added support for more apps unlock. Tested working with Strongbox, Bitwarden, and Termius. Some apps ARE NOT SUPPORTED.
+            ]]>
+		</change>
+	</changes><changes>
 		<version>1.3.3</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>

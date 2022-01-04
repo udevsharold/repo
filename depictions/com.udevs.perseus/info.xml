@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.perseus</id>
 	<name>Perseus</name>
-	<version>1.3.3</version>
+	<version>1.4.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -45,14 +45,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added ability to unlock apps using Apple Watch (see detailed info in Perseus->Advanced->Unlock Apps
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Fixed banner not dismissing after app unlocked<br/>
-            •Changed apps unlock glyph<br/><br/>
-            •Fixed Apps Unlock not working properly<br/>
-            •Improved haptic feedback communication with Apple Watch<br/>
-            •Other bug fixes & improvements
+            •Added support for more apps unlock. Tested working with Strongbox, Bitwarden, and Termius. Some apps ARE NOT SUPPORTED.
             ]]>
 		</change>
 	</changelog>
