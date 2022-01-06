@@ -51,7 +51,7 @@
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •Disabled apps unlock for Apple Pay<br/>
             •Added ability to blacklist for apps unlock<br/>
-            •Removed vexillarius dependency for <iOS 14
+            •Removed vexillarius dependency for &lt;iOS 14
             ]]>
 		</change>
 	</changelog>
