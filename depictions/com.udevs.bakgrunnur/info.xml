@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.bakgrunnur</id>
 	<name>Bakgrunnur</name>
-	<version>1.7.10</version>
+	<version>1.7.11</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -47,11 +47,10 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added option to throttle cpu usage while backgrounding
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Removed vexillarius dependency for &lt;iOS 14<br/>
-            •Bug fixes & improvements
+            •Added customizable single tap action for control center module
             ]]>
 		</change>
 	</changelog>
