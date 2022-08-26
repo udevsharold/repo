@@ -6,6 +6,16 @@
             •None
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Fixed possible crash in some extreme cases
+            ]]>
+        </change>
+    </changes><changes>
+        <version>2.4.2</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •None
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
             •Inject into appex (app extension)
             ]]>
         </change>

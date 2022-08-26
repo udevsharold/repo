@@ -1,7 +1,7 @@
 <package>
             <id>com.udevs.dockx</id>
             <name>DockX</name>
-            <version>2.4.2</version>
+            <version>2.4.3</version>
             <compatibility>
                         <firmware>
                                     <miniOS>12.0</miniOS>
@@ -100,7 +100,7 @@
             •None
             <br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Inject into appex (app extension)
+            •Fixed possible crash in some extreme cases
             <br/><br/>
             <b>If you experiencing any issue or shortcuts not showing correctly, please reset.</b>
             ]]>
