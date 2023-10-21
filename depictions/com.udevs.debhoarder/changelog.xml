@@ -1,15 +1,5 @@
 <changelog>
 	<changes>
-		<version>1.0.0</version>
-		<change><![CDATA[
-			<b>NEW FEATURES:</b><br/>
-			•First release
-			<br/><br/>
-            <b>FIXES & IMPROVEMENTS:</b><br/>
-            •None
-            ]]>
-		</change>
-	</changes><changes>
 		<version>1.0.1-1.0.2</version>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
@@ -17,6 +7,16 @@
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
             •No other changes made
+            ]]>
+		</change>
+	</changes><changes>
+		<version>1.0.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•First release
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •None
             ]]>
 		</change>
 	</changes>
