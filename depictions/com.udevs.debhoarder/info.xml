@@ -13,7 +13,7 @@
 			]]>
 		</package>
 	</dependencies>
-	<shortDescription>Backup deb file for Cydia, Zebra, and Installer</shortDescription>
+	<shortDescription>Backup deb file for Cydia, Zebra, Installer and Sileo</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
             <b>Backup deb file for Cydia, Zebra, and Installer</b><br/><br/>
