@@ -1,7 +1,7 @@
 <package>
 	<id>com.udevs.debhoarder</id>
 	<name>DebHoarder</name>
-	<version>1.0.2</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
@@ -31,10 +31,11 @@
 	<changelog>
 		<change><![CDATA[
 			<b>NEW FEATURES:</b><br/>
-			•Added Sileo support (v2.5)
+			•None
 			<br/><br/>
             <b>FIXES & IMPROVEMENTS:</b><br/>
-            •No other changes made
+            •Rootless support
+			•Dropped libundirect in favor of ChOma
             ]]>
 		</change>
 	</changelog>
